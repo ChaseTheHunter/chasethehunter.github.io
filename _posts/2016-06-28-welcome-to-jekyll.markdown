@@ -8,9 +8,20 @@ categories: uni_projects
 tags: 'jekyll'
 author: Chase
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+*Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital.*
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+First Header | Second Header 
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+First Header | Second Header 
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
 
 Jekyll also offers powerful support for code snippets:
 
