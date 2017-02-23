@@ -8,18 +8,12 @@ categories: uni_projects
 tags: 'jekyll'
 author: Chase
 ---
-*Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital.*
-
-First Header | Second Header 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
-First Header | Second Header 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Genre | Role | Focus | Time |
+------------ | -------------| -------- |----|
+2D MetroidVania Platformer | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+
 
 The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
 
