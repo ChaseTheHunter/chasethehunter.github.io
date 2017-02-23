@@ -5,7 +5,7 @@ crawlertitle: "How to use jekyll"
 summary: "Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
 date:   2016-06-28 23:09:47 +0700
 categories: uni_projects
-tags: 'MetroidVania 2D Platformer Game Rigging'
+tags: 'MetroidVania,2D,Platformer,Game,Rigging'
 author: Chase
 ---
 
