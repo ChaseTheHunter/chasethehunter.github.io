@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Tower"
 crawlertitle: "How to use jekyll"
-summary: "Jekyll default page"
+summary: "Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
 date:   2016-06-28 23:09:47 +0700
-categories: posts
+categories: uni_projects
 tags: 'jekyll'
-author: redVi
+author: Chase
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
