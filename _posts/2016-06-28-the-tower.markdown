@@ -18,11 +18,4 @@ Genre | Role | Focus | Time |
 
 The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
 
-
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-
-
-
-[![Showreel](https://img.youtube.com/vi/_b8zKcoQcFA/1.jpg)](https://www.youtube.com/watch?v=_b8zKcoQcFA)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_b8zKcoQcFA?ecver=1" frameborder="0" allowfullscreen></iframe>
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
