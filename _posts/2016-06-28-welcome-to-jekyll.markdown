@@ -7,6 +7,7 @@ date:   2016-06-28 23:09:47 +0700
 categories: uni_projects
 tags: 'MetroidVania'
 author: Chase
+bg: 'aside/thetower.png'
 ---
 
 
