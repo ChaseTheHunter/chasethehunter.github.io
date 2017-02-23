@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "The Tower"
+crawlertitle: "How to use jekyll"
+summary: "Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
+date:   2016-06-28 23:09:47 +0700
+categories: uni_projects
+tags: 'MetroidVania'
+author: Chase
+bg: 'aside/thetower.png'
+---
+
+
+Genre | Role | Focus | Time |
+------------ | -------------| -------- |----|
+2D MetroidVania Platformer | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+
+
+The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+
+
+![Concept 01]({{ site.images }}/unip/s3_concept1.png)
+
+
+
