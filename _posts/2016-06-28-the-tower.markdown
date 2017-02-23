@@ -2,7 +2,8 @@
 layout: post
 title:  "The Tower"
 crawlertitle: "The Tower"
-summary: "**A Local Coop Game for the WiiU.** Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
+summary: "**The Local Coop Experience for the WiiU.** 
+Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
 date:   2016-06-28 23:09:47 +0700
 categories: uni_projects
 tags: 'MetroidVania'
@@ -25,7 +26,7 @@ The environment and enemies represent Riley’s state of denial the illness Lou 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 *Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
 
-//Rigging Video
+{% include youtubePlayer.html id='_E9qggo6BKGs' %}
 *Video: 2D Rigging with Spine Esoteric Software*
 
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
