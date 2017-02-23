@@ -30,7 +30,12 @@ The environment and enemies represent Riley’s state of denial the illness Lou 
 *Video: 2D Rigging with Spine Esoteric Software*
 
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
+![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
 *Picture: Endboss Movement Concept*
 
-![Concept 03]({{ site.images }}/unip/s3_screenshot2.png)
-*Picture: Ingame Screenshot*
+![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
+![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
+![Concept 06]({{ site.images }}/unip/s3_screenshot4.png)
+![Concept 07]({{ site.images }}/unip/s3_screenshot5.png)
+![Concept 08]({{ site.images }}/unip/s3_screenshot6.png)
+*Pictures: Ingame Screenshots*
