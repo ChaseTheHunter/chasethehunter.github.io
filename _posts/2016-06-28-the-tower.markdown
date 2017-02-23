@@ -18,9 +18,12 @@ Genre | Role | Focus | Time |
 
 The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
 
+{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+
+*Video: Showreel The Tower* 
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+*Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
 
-This is a cool vid D: 
+
