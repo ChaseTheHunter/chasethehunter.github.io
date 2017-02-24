@@ -20,7 +20,7 @@ Since the late 19th century, the Ellwood family researches eternal life and resu
 *2005.* Two policemen took the case of recently missing people. At last they investigate the Ellwood mansion’s front yard. Marcus decides to stay in the car and sleeps. After Levi returns, Marcus went missing. He searches for him in the mansion and thinks he is getting fooled by Marcus, but soon he gets suspicious of the situation…
 
 
-![Concept 01]({{ site.images }}/unip/s1_mockup1.jpg)
+![Concept 01]({{ site.images }}/unip/s1_mockup1.png)
 ![Concept 02]({{ site.images }}/unip/s1_mockup2.jpg)
 *Pictures: Mockups Start Screen & Ingame*
 
