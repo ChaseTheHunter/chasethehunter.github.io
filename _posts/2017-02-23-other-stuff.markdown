@@ -13,7 +13,7 @@ bg: 'aside/priv.jpg'
 #**Role Playing Characters**#
 _**Raban, The Alchemist**_ 
 
-![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
+![Concept 01]({{ site.images }}/personal/charaDes2.jpg) *lets fetz lorem ipsum est rocken roll*
 *Picture: Rabans Character Design* 
 
 ![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
