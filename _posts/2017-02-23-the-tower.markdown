@@ -26,7 +26,7 @@ The environment and enemies represent Riley’s state of denial the illness Lou 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 *Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
 
-{% include youtubePlayer.html id='_E9qggo6BKGs' %}
+{% include youtubePlayer.html id='E9qggo6BKGs' %}
 *Video: 2D Rigging with Spine Esoteric Software*
 
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
