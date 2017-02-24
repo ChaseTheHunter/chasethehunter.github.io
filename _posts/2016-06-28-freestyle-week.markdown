@@ -13,8 +13,7 @@ bg: 'aside/pnc.jpg'
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-Point'n'Click Adventure | **2D Artist** | Environment Concepts, Character Design, Story
- | 5 Days|
+Point'n'Click Adventure | **2D Artist** | Environment Concepts, Character Design, Story| 5 Days|
 
 **Get ready for the Story**
 Since the late 19th century, the Ellwood family researches eternal life and resurrection. They weren't suspected since the family consists of doctors and surgeons. They took young adults from small towns to do their research but weren’t able to get any real progress. However the police didn’t investigate any further, since the Ellwoods had the power over them. Berry Ellwoods father found a sick limetree sapling and took care of it as part of his research. Later on he found out that this limetree was a dryad’s home. Berry later fell in love and married her. After the death of Berry (~1980), she tried to resurrect him desperately. By that she became insane and her tree got sick again. After many failures, she got back to use humans for research and was successful, but at high costs in the early 2000s.
