@@ -15,8 +15,8 @@ bg: 'aside/2dan.jpg'
 {% include youtubePlayer.html id='EnevMsii0g4' %}
 *Video: Transformation 2016* 
 
-![Concept 01]({{ site.images }}/unip/2dan2.png)
-![Concept 02]({{ site.images }}/unip/2dan1.png)
+![Concept 01]({{ site.images }}/2dan/2dan2.jpg)
+![Concept 02]({{ site.images }}/2dan/2dan1.jpg)
 *Picture: Character Sheet "Transformation"*
 
 {% include youtubePlayer.html id='C8cPmL7N-gk' %}
