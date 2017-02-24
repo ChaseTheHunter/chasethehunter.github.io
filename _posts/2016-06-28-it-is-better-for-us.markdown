@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Tower"
-crawlertitle: "The Tower"
-summary: "Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
-date:   2016-06-28 23:09:47 +0700
+title:  "It is better for us"
+crawlertitle: "it is better for us"
+summary: "The elderly married couple struggles to take care of each other in their daily life, due to their age and health. Kishori has to take care of her husband Jack, who is sitting in a wheelchair and starts suffering from parkinson. But Kishori’s ability to help him decreases until Jack is sent to an retirement home."
+date:   2016-07-20 +0700
 categories: uni_projects
-tags: 'MetroidVania'
+tags: '3D-Animated-Short'
 author: Chase
 bg: 'aside/thetower.png'
 ---
@@ -13,11 +13,14 @@ bg: 'aside/thetower.png'
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-2D MetroidVania Platformer | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+3D Animated Short | **2D Artist, Animator** | Environment Concepts, 2D Assets, 3D Animation | 1/2 Semester |
 
 
-The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+The Environment has a subtle color transition, warm colors for the seemingly happy moments and cold colors for the triste ones. It includes the life of the couple, but in a reduced way, due to the many changes of the backgrounds throughout the short. 
+This project was my first attemp in 3D Animation. We had 3 weeks of animation time, which was tough, but a great experience on how to deal with the scope of a project under great pressure. 
+*(Note:joined the team in the second half of the semester)*
 
+https://vimeo.com/173833208
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 
