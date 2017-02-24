@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/pp.png'
 ---
 
-#**OC-Anthology Artbook 2015-2016**#
+#**OC-Anthology Artbook 2015-2016**<h1> tag
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -27,7 +27,7 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 *Video: Browsing through the Artbook*
 
 
-#**Crazy Bat Manga Challenge 2015**#
+#**Crazy Bat Manga Challenge 2015**<h1> tag
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -40,7 +40,7 @@ The Crazy Bat Manga Challenge by *Martina Peters, Reyhan, Daniela Winkler, Melan
 ![Concept 02]({{ site.images }}/persona/pp_crazyBat.png)
 *Pictures: Page Samples*
 
-#**Best Artist 2014, Facebook Artist Contest**#
+#**Best Artist 2014, Facebook Artist Contest**<h1> tag
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
