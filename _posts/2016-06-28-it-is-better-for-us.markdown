@@ -25,15 +25,15 @@ https://vimeo.com/173833208
 ![Concept 01]({{ site.images }}/unip/s2_rendered1.jpg)
 ![Concept 02]({{ site.images }}/unip/s2_rendered2.jpg)
 
-Pictures: Render Samples
+*Pictures: Render Samples*
 
 ![Concept 03]({{ site.images }}/unip/s2_animaticStrips.png)
 
-Pictures: 2D Animatic Samples
+*Pictures: 2D Animatic Samples*
 
 ![Concept 04]({{ site.images }}/unip/s2_framedpics.png)
 
 ![Concept 05]({{ site.images }}/unip/s2_rooms.png)
 
-Pictures: Room Concepts
+*Pictures: Room Concepts*
 
