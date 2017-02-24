@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/pp.png'
 ---
 
-#**OC-Anthology Artbook 2015-2016**<h1> tag
+#**OC-Anthology Artbook 2015-2016**#
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -27,7 +27,7 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 *Video: Browsing through the Artbook*
 
 
-#**Crazy Bat Manga Challenge 2015**<h1> tag
+#**Crazy Bat Manga Challenge 2015**#
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -37,10 +37,12 @@ The Crazy Bat Manga Challenge by *Martina Peters, Reyhan, Daniela Winkler, Melan
 
 **Follow the link to read:** [Die Stille des Schnees](http://animexx.onlinewelten.com/doujinshi/zeichner/628290/61666/) *(bewary German language ahead!)*
 
-![Concept 02]({{ site.images }}/persona/pp_crazyBat.png)
+![Concept 02]({{ site.images }}/personal/pp_crazyBat.png)
 *Pictures: Page Samples*
 
-#**Best Artist 2014, Facebook Artist Contest**<h1> tag
+*Check out their page! [Crazy Bat Manga Challenge](https://www.facebook.com/CrazyBatMangaChallenge/?fref=ts)*
+
+#**Best Artist 2014, Facebook Artist Contest**#
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -48,20 +50,22 @@ About | Role | Time |
 
 The Best Artist Contest has several rounds, in each you get rated and pass onto the next round or not. For each round you get themes and rules you have follow. In 2014 were ~85 participants and 6 rounds which I all passed and got to 2nd place. This was more of an opportunity to get used to draw backgrounds, to get in touch with new people and share experience rather than only the means of a contest. Nethertheless it was a great participating, that's why I joined for Best Artist 2017 again.
 
-![Concept 03]({{ site.images }}/pp/pp_ba6.jpg)
+![Concept 03]({{ site.images }}/personal/pp_ba6.jpg)
 *Picture: 6- 90h	Celestial Witchcraft		(free theme)*
 
-![Concept 04]({{ site.images }}/pp/pp_ba5.jpg)
+![Concept 04]({{ site.images }}/personal/pp_ba5.jpg)
 *Picture: 5- 28h	Fully American		(USA, every participant gets a country)*
 
-![Concept 05]({{ site.images }}/pp/pp_ba4.jpg)
+![Concept 05]({{ site.images }}/personal/pp_ba4.jpg)
 *Picture: 4- 35h	Symbiosis			(A Person and their fantasy-animal)*
 
-![Concept 06]({{ site.images }}/pp/pp_ba3.jpg)
+![Concept 06]({{ site.images }}/personal/pp_ba3.jpg)
 *Picture: 3- 90h	Steampunk Café		(Steampunk Scenery)*
 
-![Concept 07]({{ site.images }}/pp/pp_ba2.jpg)
+![Concept 07]({{ site.images }}/personal/pp_ba2.jpg)
 *Picture: 2- 10h	The Moon and the Rabbit	(Fighting Scene either with or against each other)*
 
-![Concept 08]({{ site.images }}/pp/pp_ba1.jpg)
+![Concept 08]({{ site.images }}/personal/pp_ba1.jpg)
 *Picture: 1- 8h	The Valiant little Tailor		(Redesign a Fairytale Character)*
+
+*Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
