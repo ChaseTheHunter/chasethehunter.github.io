@@ -1,41 +1,44 @@
 ---
 layout: post
-title:  "The Tower"
-crawlertitle: "The Tower"
-summary: "The Local Coop Experience for Nintendo WiiU. 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
-date:   2017-02-23 23:09:47 +0700
-categories: uni_projects
-tags: 'WiiU-Game'
+title:  "Personal Stuff"
+crawlertitle: "Personal Stuff"
+summary: "Wanna know what I do in my free time? Then go ahead and have a look at several illustrations, sketches, designs and so on!"
+date:   2017-02-23 +0700
+categories: personal_stuff
+tags: 'Personal-Stuff'
 author: Chase
-bg: 'aside/thetower.png'
+bg: 'aside/priv.jpg'
 ---
 
+#**Role Playing Characters**#
+_**Raban, The Alchemist**_ 
 
-Genre | Role | Focus | Time |
------------- | -------------| -------- |----|
-2D MetroidVania Platformer for WiiU | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
+*Picture: Rabans Character Design* 
+
+![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
+*Picture: The Curse* 
+
+{% include youtubePlayer.html id='gLDoFA30Jp8' %}
+*Video: The Curse, timelapse -2016*
+
+![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
+*Pictures: Raban interacting* 
+
+//Chara Description (still need to think about how to present that)
 
 
-The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+#**Illustrations**#
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+![Concept 05]({{ site.images }}/personal/p_illustration5.jpg)
+*Pictures: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
 
-*Video: Showreel The Tower* 
+![Concept 04]({{ site.images }}/personal/p_illustration2.jpg)
+*Picture: First Night as a Party -09/2016* 
 
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-*Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
+![Concept 06]({{ site.images }}/personal/p_illustration1.jpg)
+*Picture: Pluviophile -08/2015* 
 
-{% include youtubePlayer.html id='E9qggo6BKGs' %}
-*Video: 2D Rigging with Spine Esoteric Software*
 
-![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
-![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
-*Picture: Endboss Movement Concept*
 
-![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
-![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
-![Concept 06]({{ site.images }}/unip/s3_screenshot4.png)
-![Concept 07]({{ site.images }}/unip/s3_screenshot5.png)
-![Concept 08]({{ site.images }}/unip/s3_screenshot6.png)
-*Pictures: Ingame Screenshots*
+
