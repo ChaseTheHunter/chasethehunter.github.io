@@ -1,41 +1,37 @@
 ---
 layout: post
-title:  "The Tower"
-crawlertitle: "The Tower"
-summary: "The Local Coop Experience for Nintendo WiiU. 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
-date:   2017-02-23 23:09:47 +0700
+title:  "A Dead Man's Blood FLows"
+crawlertitle: "A Dead Man's Blood FLows"
+summary: "Join a thrilling Point'n'Click Story of two policemen, who are going after a case of missing people in a seemingly abandoned mansion. But wait! Suddenly one of them goes missing. You search for your partner in the mansion while solving the case. You get to know, that the wife of the mansion owner is a dryad and wants to keep her undead husband alive with the blood of the missing people. What the heck is actually going on here?"
+date:   2016-02 +0700
 categories: uni_projects
-tags: 'WiiU-Game'
+tags: 'Game-Concept'
 author: Chase
-bg: 'aside/thetower.png'
+bg: 'aside/pnc.jpg'
 ---
 
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-2D MetroidVania Platformer for WiiU | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+Point'n'Click Adventure | **2D Artist** | Environment Concepts, Character Design, Story
+ | 5 Days|
+
+**Get ready for the Story**
+Since the late 19th century, the Ellwood family researches eternal life and resurrection. They weren't suspected since the family consists of doctors and surgeons. They took young adults from small towns to do their research but weren’t able to get any real progress. However the police didn’t investigate any further, since the Ellwoods had the power over them. Berry Ellwoods father found a sick limetree sapling and took care of it as part of his research. Later on he found out that this limetree was a dryad’s home. Berry later fell in love and married her. After the death of Berry (~1980), she tried to resurrect him desperately. By that she became insane and her tree got sick again. After many failures, she got back to use humans for research and was successful, but at high costs in the early 2000s.
+*2005.* Two policemen took the case of recently missing people. At last they investigate the Ellwood mansion’s front yard. Marcus decides to stay in the car and sleeps. After Levi returns, Marcus went missing. He searches for him in the mansion and thinks he is getting fooled by Marcus, but soon he gets suspicious of the situation…
 
 
-The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+![Concept 01]({{ site.images }}/unip/s1_mockup1.jpg)
+![Concept 02]({{ site.images }}/unip/s1_mockup2.jpg)
+*Pictures: Mockups Start Screen & Ingame*
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+![Concept 03]({{ site.images }}/unip/s1_concept4.jpg)
+*Picture: Dryad "Linda", Policemen Levi & Markus, Undead-Husband Berry Ellwood*
 
-*Video: Showreel The Tower* 
+![Concept 05]({{ site.images }}/unip/s1_concept1.jpg)
+![Concept 06]({{ site.images }}/unip/s1_concept2.jpg)
+![Concept 07]({{ site.images }}/unip/s1_concept3.jpg)
+*Pictures: Room Concepts*
 
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-*Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
-
-{% include youtubePlayer.html id='_E9qggo6BKGs' %}
-*Video: 2D Rigging with Spine Esoteric Software*
-
-![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
-![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
-*Picture: Endboss Movement Concept*
-
-![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
-![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
-![Concept 06]({{ site.images }}/unip/s3_screenshot4.png)
-![Concept 07]({{ site.images }}/unip/s3_screenshot5.png)
-![Concept 08]({{ site.images }}/unip/s3_screenshot6.png)
-*Pictures: Ingame Screenshots*
+![Concept 08]({{ site.images }}/unip/s1_storytree.jpg)
+*Pictures: Story Tree with possible Endings*
