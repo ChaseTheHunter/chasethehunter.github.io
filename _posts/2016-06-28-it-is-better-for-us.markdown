@@ -33,8 +33,6 @@ Pictures: 2D Animatic Samples
 
 ![Concept 04]({{ site.images }}/unip/s2_framedpics.png)
 
-Pictures: framed Familypictures
-
 ![Concept 05]({{ site.images }}/unip/s2_rooms.png)
 
 Pictures: Room Concepts
