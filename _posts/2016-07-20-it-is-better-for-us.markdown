@@ -31,6 +31,9 @@ https://vimeo.com/173833208
 
 *Pictures: 2D Animatic Samples*
 
+{% include youtubePlayer.html id='0z2OgyIl-6U' %} 
+*Video: Project Showreel*
+
 ![Concept 04]({{ site.images }}/unip/s2_framedpics.png)
 
 ![Concept 05]({{ site.images }}/unip/s2_rooms.png)
