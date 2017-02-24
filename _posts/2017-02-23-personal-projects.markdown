@@ -37,6 +37,7 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 
 ![Concept 03]({{ site.images }}/personal/pp_ba6.jpg)
 *Picture: 6- 90h	Celestial Witchcraft		(free theme)*
+*(holy shit look at that time, gladly much faster now!!)* 
 
 ![Concept 04]({{ site.images }}/personal/pp_ba5.jpg)
 *Picture: 5- 28h	Fully American		(USA, every participant gets a country)*
