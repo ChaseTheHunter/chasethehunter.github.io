@@ -27,21 +27,6 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 *Video: Browsing through the Artbook*
 
 
-#**Crazy Bat Manga Challenge 2015**#
-
-About | Role | Time |
------------- | -------------| -------- |----|
-20 pages Comic + 1 Cover, needed to involve their logo | **Participant** | 2 Weeks |
-
-The Crazy Bat Manga Challenge by *Martina Peters, Reyhan, Daniela Winkler, Melanie Schober and Olga Rogalski* is a Contest in which each participant has to draw a 20-paged *(+1 optional Cover)* manga or comic which includes their logo. 2 Weeks before the contest was over I got to know it and decided to participate. To challenge myself I decided to make everything in full color. For the story I got inspired by the song "Louder than Thunder - The Devil wears Prada". 
-
-**Follow the link to read:** [Die Stille des Schnees](http://animexx.onlinewelten.com/doujinshi/zeichner/628290/61666/) *(bewary German language ahead!)*
-
-![Concept 02]({{ site.images }}/personal/pp_crazyBat.png)
-*Pictures: Page Samples*
-
-*Check out their page! [Crazy Bat Manga Challenge](https://www.facebook.com/CrazyBatMangaChallenge/?fref=ts)*
-
 #**Best Artist 2014, Facebook Artist Contest**#
 
 About | Role | Time |
@@ -69,3 +54,18 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 *Picture: 1- 8h	The Valiant little Tailor		(Redesign a Fairytale Character)*
 
 *Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
+
+#**Crazy Bat Manga Challenge 2015**#
+
+About | Role | Time |
+------------ | -------------| -------- |----|
+20 pages Comic + 1 Cover, needed to involve their logo | **Participant** | 2 Weeks |
+
+The Crazy Bat Manga Challenge by *Martina Peters, Reyhan, Daniela Winkler, Melanie Schober and Olga Rogalski* is a Contest in which each participant has to draw a 20-paged *(+1 optional Cover)* manga or comic which includes their logo. 2 Weeks before the contest was over I got to know it and decided to participate. To challenge myself I decided to make everything in full color. For the story I got inspired by the song "Louder than Thunder - The Devil wears Prada". 
+
+**Follow the link to read:** [Die Stille des Schnees](http://animexx.onlinewelten.com/doujinshi/zeichner/628290/61666/) *(bewary German language ahead!)*
+
+![Concept 02]({{ site.images }}/personal/pp_crazyBat.png)
+*Pictures: Page Samples*
+
+*Check out their page! [Crazy Bat Manga Challenge](https://www.facebook.com/CrazyBatMangaChallenge/?fref=ts)*
