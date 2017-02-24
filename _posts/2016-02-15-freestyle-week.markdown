@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Dead Mans Blood FLows"
-crawlertitle: "A Dead Mans Blood FLows"
+title:  "A Dead Mans Blood Flows"
+crawlertitle: "A Dead Mans Blood Flows"
 summary: "Join a thrilling Point'n'Click Story of two policemen, who are going after a case of missing people in a seemingly abandoned mansion. But wait! Suddenly one of them goes missing. You search for your partner in the mansion while solving the case. You get to know, that the wife of the mansion owner is a dryad and wants to keep her undead husband alive with the blood of the missing people. What the heck is actually going on here?"
 date:   2016-02-15 +0700
 categories: uni_projects
