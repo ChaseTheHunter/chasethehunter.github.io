@@ -18,11 +18,24 @@ Genre | Role | Focus | Time |
 
 The Environment has a subtle color transition, warm colors for the seemingly happy moments and cold colors for the triste ones. It includes the life of the couple, but in a reduced way, due to the many changes of the backgrounds throughout the short. 
 This project was my first attemp in 3D Animation. We had 3 weeks of animation time, which was tough, but a great experience on how to deal with the scope of a project under great pressure. 
-*(Note:joined the team in the second half of the semester)*
+*(Note to "Time":joined the team in the second half of the semester)*
 
 https://vimeo.com/173833208
 
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
+![Concept 01]({{ site.images }}/unip/s2_rendered1.jpg)
+![Concept 02]({{ site.images }}/unip/s2_rendered2.jpg)
 
+Pictures: Render Samples
 
+![Concept 03]({{ site.images }}/unip/s2_animaticStrips.png)
+
+Pictures: 2D Animatic Samples
+
+![Concept 04]({{ site.images }}/unip/s2_framedpics.png)
+
+Pictures: framed Familypictures
+
+![Concept 05]({{ site.images }}/unip/s2_rooms.png)
+
+Pictures: Room Concepts
 
