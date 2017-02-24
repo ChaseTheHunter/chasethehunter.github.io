@@ -27,7 +27,7 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 *Video: Browsing through the Artbook*
 
 
-#**Best Artist 2014, Facebook Artist Contest**#
+#**Best Artist 2014 (-2015)**#
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
