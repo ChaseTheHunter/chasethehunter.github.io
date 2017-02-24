@@ -28,15 +28,22 @@ _**Raban, The Alchemist**_
 //Chara Description (still need to think about how to present that)
 
 
+#**Character Designs**#
+
+![Concept 05]({{ site.images }}/personal/charaDes1.jpg)
+*Picture: Every J-RPG ever* 
+
+
+
 #**Illustrations**#
 
-![Concept 05]({{ site.images }}/personal/p_illustration5.jpg)
-*Pictures: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
+![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
+*Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
 
-![Concept 04]({{ site.images }}/personal/p_illustration2.jpg)
+![Concept 07]({{ site.images }}/personal/p_illustration2.jpg)
 *Picture: First Night as a Party -09/2016* 
 
-![Concept 06]({{ site.images }}/personal/p_illustration1.jpg)
+![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
 *Picture: Pluviophile -08/2015* 
 
 
