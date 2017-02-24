@@ -13,19 +13,19 @@ bg: 'aside/2dan.jpg'
 
 
 {% include youtubePlayer.html id='EnevMsii0g4' %}
-*Video: Transformation 2016* 
+*Video: Transformation -2016* 
 
 ![Concept 01]({{ site.images }}/2dan/2dan2.jpg)
 ![Concept 02]({{ site.images }}/2dan/2dan1.jpg)
 *Picture: Character Sheet "Transformation"*
 
 {% include youtubePlayer.html id='C8cPmL7N-gk' %}
-*Video: Animatic "My first Day as Guardian Angel 2015* 
+*Video: Animatic "My first Day as Guardian Angel" -2015* 
 
 {% include youtubePlayer.html id='qWLdukYrNfk' %}
-*Video: Jumping 2015* 
+*Video: Jumping -2015* 
 
 {% include youtubePlayer.html id='_2-XpJoZvtk' %}
-*Video: Sword Swing 2015* 
+*Video: Sword Swing -2015* 
 
 
