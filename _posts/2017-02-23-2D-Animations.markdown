@@ -11,10 +11,6 @@ bg: 'aside/thetower.png'
 ---
 
 
-Genre | Role | Focus | Time |
------------- | -------------| -------- |----|
-2D MetroidVania Platformer for WiiU | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
-
 
 {% include youtubePlayer.html id='_EnevMsii0g4' %}
 *Video: Transformation 2016* 
