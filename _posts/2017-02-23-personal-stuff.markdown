@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/priv.jpg'
 ---
 
-#**Role Playing Characters**#
+## **Role Playing Characters**
 _**Raban, The Alchemist**_ 
 
 ![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
@@ -28,14 +28,14 @@ _**Raban, The Alchemist**_
 //Chara Description (still need to think about how to present that)
 
 
-#**Other Character Designs**##
+## **Other Character Designs**
 
 ![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
 *Picture: Every J-RPG ever* 
 ![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
 *Picture: now-time-fantasy medic character*
 
-#**Illustrations**#
+## **Illustrations**
 
 ![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
 *Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
@@ -46,7 +46,7 @@ _**Raban, The Alchemist**_
 ![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
 *Picture: Pluviophile -08/2015* 
 
-#**Studies**#
+## **Studies**
 
 ![Concept 09]({{ site.images }}/personal/p_stud1.jpg)
 *Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016 * 
