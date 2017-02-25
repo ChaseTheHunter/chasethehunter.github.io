@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/pp.png'
 ---
 
-#**OC-Anthology Artbook 2015-2016**#
+## **OC-Anthology Artbook 2015-2016**
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -27,7 +27,7 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 *Video: Browsing through the Artbook*
 
 
-#**Best Artist 2014 (-2015)**#
+## **Best Artist 2014 (-2015)**
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
@@ -55,7 +55,7 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 
 *Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
 
-#**Crazy Bat Manga Challenge 2015**#
+##**Crazy Bat Manga Challenge 2015**
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
