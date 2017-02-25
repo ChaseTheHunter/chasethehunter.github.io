@@ -55,7 +55,7 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 
 *Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
 
-##**Crazy Bat Manga Challenge 2015**
+## **Crazy Bat Manga Challenge 2015**
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
