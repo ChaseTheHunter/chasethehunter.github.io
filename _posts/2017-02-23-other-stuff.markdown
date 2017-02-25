@@ -28,12 +28,12 @@ _**Raban, The Alchemist**_
 //Chara Description (still need to think about how to present that)
 
 
-#**Character Designs**#
+#**Other Character Designs**##
 
-![Concept 05]({{ site.images }}/personal/charaDes1.jpg)
+![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
 *Picture: Every J-RPG ever* 
-
-
+![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
+*Picture: now-time-fantasy medic character*
 
 #**Illustrations**#
 
