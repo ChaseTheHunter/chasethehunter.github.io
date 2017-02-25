@@ -16,7 +16,6 @@ You *may* not have notices, but I'm really into all this nerdstuff. Y'know like 
 **Thank you for visiting my website, have fun while browsing!** 
 
 You can find my Art also on Facebook:
-{{site.twitter_username}} /
 [Maultaschenprinz](https://www.facebook.com/Maultaschenprinz/)
 
 //Insert finished CV here
