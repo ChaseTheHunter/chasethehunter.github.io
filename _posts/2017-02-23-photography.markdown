@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/ph.jpg'
 ---
 
-#**Cosplay**#
+## **Cosplay**
 
 _**Location**_
 
@@ -34,7 +34,7 @@ _**Convention**_
 ![Concept 06]({{ site.images }}/photography/ph_2.jpg)
 *Picture: The Hobbit at LBM -2016 || Models:[Sysiphos Cosplay](https://www.facebook.com/SisyphosCosplay/?fref=ts)*
 
-#**Casual**#
+## **Casual**
 
 ![Concept 07]({{ site.images }}/photography/ph_6.jpg)
 *Picture: Vampire -2016 || Model:Tan Sander Lieske* 
