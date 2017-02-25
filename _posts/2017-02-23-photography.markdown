@@ -1,63 +1,43 @@
 ---
 layout: post
-title:  "Personal Stuff"
-crawlertitle: "Personal Stuff"
-summary: "Wanna know what I do in my free time? Then go ahead and have a look at several illustrations, sketches, designs and so on!"
+title:  "Photography"
+crawlertitle: "Photography"
+summary: "Wanna know what else I do in my free time? Heck yeah, that's right, Photography! Besides trying to get the best spots at conventions, I also love to travel around and search for nice locations. I mostly shoot cosplayers, but sometimes also some casuals."
 date:   2017-02-23 +0700
-categories: personal_stuff
-tags: 'Personal-Stuff'
+categories: photography
+tags: 'photography'
 author: Chase
-bg: 'aside/priv.jpg'
+bg: 'aside/pho.jpg'
 ---
 
-#**Role Playing Characters**#
-_**Raban, The Alchemist**_ 
+#**Cosplay**#
 
-![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
-*Picture: Rabans Character Design* 
+_**Location**_
 
-![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
-*Picture: The Curse* 
+![Concept 01]({{ site.images }}/photography/ph_7.jpg)
+*Picture: Rem, Re:Zero -2017 Model:([Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/))* 
 
-{% include youtubePlayer.html id='gLDoFA30Jp8' %}
-*Video: The Curse, timelapse -2016*
+![Concept 02]({{ site.images }}/photography/ph_3.jpg)
+*Picture: Emilia, Re:Zero -2016 Model:([Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/))* 
 
-![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
-*Pictures: Raban interacting* 
+![Concept 03]({{ site.images }}/photography/ph_4.jpg)
+*Pictures: Ekko, LoL -2016 Model:([Bananenbier](https://www.facebook.com/Bananenbier/?fref=ts))* 
 
-//Chara Description (still need to think about how to present that)
+![Concept 04]({{ site.images }}/photography/ph_5.jpg)
+*Picture: Sinon, Sword Art Online -2015 Model:([Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/))* 
 
+_**Convention**_
 
-#**Other Character Designs**##
+![Concept 05]({{ site.images }}/photography/ph_1.jpg)
+*Picture: TRC:CLAMP at Connichi -2016 Models:([Asu Cosplay](https://www.facebook.com/Asus-Cosplays) & [Coca Cosplay](https://www.facebook.com/cocacosplay))*
 
-![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
-*Picture: Every J-RPG ever* 
-![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
-*Picture: now-time-fantasy medic character*
+![Concept 06]({{ site.images }}/photography/ph_2.jpg)
+*Picture: The Hobbit at LBM -2016 Model:([Sysiphos Cosplay](https://www.facebook.com/SisyphosCosplay/?fref=ts))*
 
-#**Illustrations**#
+#**Casual**#
 
-![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
-*Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
+![Concept 07]({{ site.images }}/photography/ph_7.jpg)
+*Picture: Vampire -2016 Model:Tan Sander Lieske* 
 
-![Concept 07]({{ site.images }}/personal/p_illustration2.jpg)
-*Picture: First Night as a Party -09/2016* 
-
-![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
-*Picture: Pluviophile -08/2015* 
-
-#**Studies**#
-
-![Concept 09]({{ site.images }}/personal/p_stud1_1.png)
-*Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016 * 
-
-![Concept 10]({{ site.images }}/personal/p_stud2.jpg)
-*Picture: Everything needs a Beach episode (Overwatch) -08/2016* 
-
-![Concept 11]({{ site.images }}/personal/p_stud3.jpg)
-*Picture: Got an arrow in my back -11/2016* 
-
-![Concept 12]({{ site.images }}/personal/p_stud4.jpg)
-*Picture: Portrait Test -11/2016* 
 
 
