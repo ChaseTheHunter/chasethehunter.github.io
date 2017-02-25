@@ -1,12 +1,12 @@
 ---
-bg: "rails.jpg"
+bg: 'aside/me.jpg'
 layout: default
-crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: "main page"
+crawlertitle: "thomas-chase scheffel portfolio"
+title: "Thomas-Chase Scheffel Portfolio"
+summary: "Greetings! Have fun while browsing. Interested? Contact me: thomas.chase.scheffel@gmail.com"
 ---
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 10 %}
   <article class="index-page">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
