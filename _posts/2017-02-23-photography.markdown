@@ -15,29 +15,29 @@ bg: 'aside/ph.jpg'
 _**Location**_
 
 ![Concept 01]({{ site.images }}/photography/ph_7.jpg)
-*Picture: Rem, Re:Zero -2017 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
+*Pictures: Rem, Re:Zero -2017 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
 
 ![Concept 02]({{ site.images }}/photography/ph_3.jpg)
-*Picture: Emilia, Re:Zero -2016 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
+*Pictures: Emilia, Re:Zero -2016 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
 
 ![Concept 03]({{ site.images }}/photography/ph_4.jpg)
 *Pictures: Ekko, LoL -2016 || Model:[Bananenbier](https://www.facebook.com/Bananenbier/?fref=ts)* 
 
 ![Concept 04]({{ site.images }}/photography/ph_5.jpg)
-*Picture: Sinon, Sword Art Online -2015 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
+*Pictures: Sinon, Sword Art Online -2015 || Model:[Haruhi-Can Ger Cosplay](https://www.facebook.com/haruhican/)* 
 
 _**Convention**_
 
 ![Concept 05]({{ site.images }}/photography/ph_1.jpg)
-*Picture: TRC:CLAMP at Connichi -2016 || Models:[Asu Cosplay](https://www.facebook.com/Asus-Cosplays-1407436276190831/?ref=ts&fref=ts) & [Coca Cosplay](https://www.facebook.com/cocacosplay)*
+*Pictures: TRC:CLAMP at Connichi -2016 || Models:[Asu Cosplay](https://www.facebook.com/Asus-Cosplays-1407436276190831/?ref=ts&fref=ts) & [Coca Cosplay](https://www.facebook.com/cocacosplay)*
 
 ![Concept 06]({{ site.images }}/photography/ph_2.jpg)
-*Picture: The Hobbit at LBM -2016 || Models:[Sysiphos Cosplay](https://www.facebook.com/SisyphosCosplay/?fref=ts)*
+*Pictures: The Hobbit at LBM -2016 || Models:[Sysiphos Cosplay](https://www.facebook.com/SisyphosCosplay/?fref=ts)*
 
 ## **Casual**
 
 ![Concept 07]({{ site.images }}/photography/ph_6.jpg)
-*Picture: Vampire -2016 || Model:Tan Sander Lieske* 
+*Pictures: Vampire -2016 || Model:Tan Sander Lieske* 
 
 
 
