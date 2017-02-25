@@ -49,7 +49,7 @@ _**Raban, The Alchemist**_
 ## **Studies**
 
 ![Concept 09]({{ site.images }}/personal/p_stud1.jpg)
-*Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016 * 
+*Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016* 
 
 ![Concept 10]({{ site.images }}/personal/p_stud2.jpg)
 *Picture: Everything needs a Beach episode (Overwatch) -08/2016* 
