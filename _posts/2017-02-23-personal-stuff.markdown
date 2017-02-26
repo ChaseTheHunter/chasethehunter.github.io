@@ -7,7 +7,7 @@ date:   2017-02-23 +0700
 categories: personal_stuff
 tags: 'Personal-Stuff'
 author: Chase
-bg: 'aside/priv.jpg'
+bg: 'aside/priv2.jpg'
 ---
 ## **Illustrations**
 
