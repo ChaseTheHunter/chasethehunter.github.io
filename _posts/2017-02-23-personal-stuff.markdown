@@ -9,33 +9,10 @@ tags: 'Personal-Stuff'
 author: Chase
 bg: 'aside/priv.jpg'
 ---
-
-## **Role Playing Characters**
-_**Raban, The Alchemist**_ 
-
-![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
-*Picture: Rabans Character Design* 
-
-![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
-*Picture: The Curse* 
-
-{% include youtubePlayer.html id='gLDoFA30Jp8' %}
-*Video: The Curse, timelapse -2016*
-
-![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
-*Pictures: Raban interacting* 
-
-//Chara Description (still need to think about how to present that)
-
-
-## **Other Character Designs**
-
-![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
-*Picture: Every J-RPG ever* 
-![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
-*Picture: now-time-fantasy medic character*
-
 ## **Illustrations**
+
+![Concept 07]({{ site.images }}/personal/p_illustration6.jpg)
+*Picture: Heroes never die (Overwatch) -02/2017* 
 
 ![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
 *Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
@@ -45,6 +22,34 @@ _**Raban, The Alchemist**_
 
 ![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
 *Picture: Pluviophile -08/2015* 
+
+
+## **Role Playing Characters**
+_**Raban, The Alchemist**_ 
+
+![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
+*Picture: Rabans Character Design -2016* 
+
+![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
+*Picture: The Curse -2016* 
+
+{% include youtubePlayer.html id='gLDoFA30Jp8' %}
+*Video: The Curse, timelapse -2016*
+
+![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
+*Pictures: Raban interacting -2016* 
+
+//Chara Description (still need to think about how to present that)
+
+
+## **Other Character Designs**
+
+![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
+*Picture: Every J-RPG ever -04/2016* 
+![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
+*Picture: now-time-fantasy medic character -03/2016*
+
+
 
 ## **Studies**
 
