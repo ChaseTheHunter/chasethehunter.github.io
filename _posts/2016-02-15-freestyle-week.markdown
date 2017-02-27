@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/pnc.jpg'
 ---
 
-*Join a thrilling Point'n'Click Story of two policemen, who are going after a case of missing people in a seemingly abandoned mansion. But wait! Suddenly one of them goes missing. You search for your partner in the mansion while solving the case. You get to know, that the wife of the mansion owner is a dryad and wants to keep her undead husband alive with the blood of the missing people.*
+*__Join a thrilling Point'n'Click Story__ of two policemen, who are going after a case of missing people in a seemingly abandoned mansion. But wait! Suddenly one of them goes missing. You search for your partner in the mansion while solving the case. You get to know, that the wife of the mansion owner is a dryad and wants to keep her undead husband alive with the blood of the missing people.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
