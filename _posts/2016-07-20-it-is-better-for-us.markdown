@@ -9,7 +9,7 @@ tags: '3D-Animated-Short'
 author: Chase
 bg: 'aside/itis.jpg'
 ---
-*__It is better for us__ (formerly: fade into grey). The elderly married couple struggles to take care of each other in their daily life, due to their age and health. Kishori has to take care of her husband Jack, who is sitting in a wheelchair and starts suffering from parkinson. But Kishori’s ability to help him decreases until Jack is sent to an retirement home.*
+*__It is better for us 3D Animated Short__. The elderly married couple struggles to take care of each other in their daily life, due to their age and health. Kishori has to take care of her husband Jack, who is sitting in a wheelchair and starts suffering from parkinson. But Kishori’s ability to help him decreases until Jack is sent to an retirement home.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
