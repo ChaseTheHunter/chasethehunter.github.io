@@ -1,7 +1,7 @@
 ---
   layout: post
-  title:  "Personal Projects"
-  crawlertitle: "Personal Projects"
+  title:  "Best Artist"
+  crawlertitle: "best artist"
   summary: "Have a look at some of my private projects, collaborations and contests."
   date:   2017-02-23 23:09:47 +0700
   categories: personal_projects
