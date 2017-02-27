@@ -7,7 +7,7 @@ date:   2017-02-07 +0700
 categories: personal_stuff
 tags: 'Personal-Stuff'
 author: Chase
-bg: 'aside/priv2.jpg'
+bg: 'aside/priv3.png'
 ---
 
 *Wanna know what I do in my free time? Then go ahead and have a look at several illustrations, sketches, designs and so on!*
