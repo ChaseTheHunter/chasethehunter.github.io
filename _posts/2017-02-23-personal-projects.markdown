@@ -1,8 +1,8 @@
 ---
   layout: post
-  title:  "OC-Anthology Artbook"
-  crawlertitle: "ocanthology artbook"
-  summary: "Have a look at my first Artbook-Collaboration which I organised with TheJenno"
+  title:  "Personal Projects"
+  crawlertitle: "personal projects"
+  summary: "Have a look at all my personal projects."
   date:   2017-02-23 23:09:47 +0700
   categories: personal_projects
   tags: 'Personal-Projects'
@@ -10,7 +10,7 @@
   active: Personal Projects
   bg: 'aside/pp.png'
 ---
-*Have a look at my first Artbook-Collaboration which I organised with [TheJenno](https://www.facebook.com/TheJennofeatSchrillemille/?fref=ts)*
+*PPPPP in progress Have a look at my first Artbook-Collaboration which I organised with [TheJenno](https://www.facebook.com/TheJennofeatSchrillemille/?fref=ts)*
 
 
 ## **OC-Anthology Artbook 2015-2016**
