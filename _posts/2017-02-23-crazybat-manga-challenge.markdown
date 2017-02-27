@@ -2,16 +2,16 @@
   layout: post
   title:  "Crazy Bat Manga Challenge"
   crawlertitle: "crazy bat manga challenge"
-  summary: "My contribution to the CBMC in 2015"
+  summary: "My contribution to the Crazy Bat Manga Challenge in 2015"
   date:   2017-02-01 +0700
   categories: personal_projects
-  tags: 'Personal-Projects'
+  tags: 'CBMC-2015'
   author: Chase
   active: Personal Projects
   bg: 'aside/cbmc.png'
 ---
 
-*My contribution to the CBMC in 2015*
+*My contribution to the Crazy Bat Manga Challenge in 2015*
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
