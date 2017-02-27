@@ -3,7 +3,7 @@ layout: post
 title:  "Personal Stuff"
 crawlertitle: "Personal Stuff"
 summary: "Wanna know what I do in my free time? Then go ahead and have a look at several illustrations, sketches, designs and so on!"
-date:   2017-02-06 +0700
+date:   2017-02-07 +0700
 categories: personal_stuff
 tags: 'Personal-Stuff'
 author: Chase
