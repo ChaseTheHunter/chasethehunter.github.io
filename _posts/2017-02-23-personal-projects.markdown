@@ -1,14 +1,12 @@
+
 ---
-layout: post
+bg: 'aside/pp.png'
+layout: page
 title:  "Private Projects"
 crawlertitle: "Private Projects"
+permalink: /private-projects/
 summary: "Have a look at some of my private projects, collaborations and contests."
-date:   2017-02-23 23:09:47 +0700
-categories: private_projects
-tags: 'Private-Projects'
-author: Chase
-active: about
-bg: 'aside/pp.png'
+active: private-projects
 ---
 
 ## **OC-Anthology Artbook 2015-2016**
