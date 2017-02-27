@@ -1,11 +1,11 @@
 ---
   layout: post
-  title:  "Private Projects"
-  crawlertitle: "Private Projects"
+  title:  "Personal Projects"
+  crawlertitle: "Personal Projects"
   summary: "Have a look at some of my private projects, collaborations and contests."
   date:   2017-02-23 23:09:47 +0700
-  categories: private_projects
-  tags: 'Private-Projects'
+  categories: personal_projects
+  tags: 'Personal-Projects'
   author: Chase
   active: Personal Projects
   bg: 'aside/pp.png'
