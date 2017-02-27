@@ -10,6 +10,8 @@ author: Chase
 bg: 'aside/ph.jpg'
 ---
 
+*Wanna know what else I do in my free time? Heck yeah, that's right, Photography! Besides trying to get the best spots at conventions, I also love to travel around and search for nice locations. I mostly shoot cosplayers, but sometimes also some casuals.*
+
 ## **Cosplay**
 
 _**Location**_
