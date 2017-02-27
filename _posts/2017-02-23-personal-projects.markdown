@@ -10,6 +10,8 @@
   active: Personal Projects
   bg: 'aside/pp.png'
 ---
+*Have a look at some of my private projects, collaborations and contests.*
+
 
 ## **OC-Anthology Artbook 2015-2016**
 
