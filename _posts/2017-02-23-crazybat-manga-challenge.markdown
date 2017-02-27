@@ -1,8 +1,8 @@
 ---
   layout: post
-  title:  "Personal Projects"
-  crawlertitle: "Personal Projects"
-  summary: "Have a look at some of my private projects, collaborations and contests."
+  title:  "Crazy Bat Manga Challenge"
+  crawlertitle: "crazy bat manga challenge"
+  summary: "My contribution to the CBMC in 2015"
   date:   2017-02-23 23:09:47 +0700
   categories: personal_projects
   tags: 'Personal-Projects'
@@ -11,8 +11,7 @@
   bg: 'aside/cbmc.png'
 ---
 
-
-## **Crazy Bat Manga Challenge 2015**
+*My contribution to the CBMC in 2015*
 
 About | Role | Time |
 ------------ | -------------| -------- |----|
