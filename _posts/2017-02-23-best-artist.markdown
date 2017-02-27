@@ -10,25 +10,6 @@
   active: Personal Projects
   bg: 'aside/pp.png'
 ---
-*Have a look at some of my private projects, collaborations and contests.*
-
-
-## **OC-Anthology Artbook 2015-2016**
-
-About | Role | Time |
------------- | -------------| -------- |----|
-Non-profit collaborative artist project | **Organisation, Administration, Design, Illustration** | 10 months |
-
-It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~50 Artist around Germany and Japan. Jenny 'TheJenno' Michler and I took care of the organisation and administration of this project, as well as the communication with the different artists. We also contributed to the project as artists. The project itself can be divided in different terms: Planning-Phase, Application-Phase for the Artists, Drawing-Phase and Post-Phase. 
-
-
-![Concept 01]({{ site.images }}/personal/pp_pageSample.png)
-*Pictures: Page Samples* 
-
-//insert Video later
-{% include youtubePlayer.html id='XXXX' %}
-*Video: Browsing through the Artbook*
-
 
 ## **Best Artist 2014 (-2015)**
 
@@ -58,17 +39,5 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 
 *Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
 
-## **Crazy Bat Manga Challenge 2015**
 
-About | Role | Time |
------------- | -------------| -------- |----|
-20 pages Comic + 1 Cover, needed to involve their logo | **Participant** | 2 Weeks |
 
-The Crazy Bat Manga Challenge by *Martina Peters, Reyhan, Daniela Winkler, Melanie Schober and Olga Rogalski* is a Contest in which each participant has to draw a 20-paged *(+1 optional Cover)* manga or comic which includes their logo. 2 Weeks before the contest was over I got to know it and decided to participate. To challenge myself I decided to make everything in full color. For the story I got inspired by the song "Louder than Thunder - The Devil wears Prada". 
-
-**Follow the link to read:** [Die Stille des Schnees](http://animexx.onlinewelten.com/doujinshi/zeichner/628290/61666/) *(bewary German language ahead!)*
-
-![Concept 02]({{ site.images }}/personal/pp_crazyBat.png)
-*Pictures: Page Samples*
-
-*Check out their page! [Crazy Bat Manga Challenge](https://www.facebook.com/CrazyBatMangaChallenge/?fref=ts)*
