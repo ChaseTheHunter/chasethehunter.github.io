@@ -7,7 +7,7 @@ date:   2017-02-23 23:09:47 +0700
 categories: private_projects
 tags: 'Private-Projects'
 author: Chase
-active: Personal Projects
+active: private
 bg: 'aside/pp.png'
 ---
 
