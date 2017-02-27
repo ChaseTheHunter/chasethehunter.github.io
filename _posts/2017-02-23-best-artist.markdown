@@ -5,7 +5,7 @@
   summary: "Have a look at my Illustrations for the Best Artist 2014 - 2015"
   date:   2017-02-02 +0700
   categories: personal_projects
-  tags: 'Personal-Projects'
+  tags: 'Best-Artist'
   author: Chase
   active: Personal Projects
   bg: 'aside/ba.png'
