@@ -3,7 +3,7 @@
   title:  "OC-Anthology Artbook"
   crawlertitle: "ocanthology artbook"
   summary: "Have a look at my first Artbook-Collaboration which I organised with TheJenno"
-  date:   2017-02-23 23:09:47 +0700
+  date:   2017-02-08 +0700
   categories: personal_projects
   tags: 'Personal-Projects'
   author: Chase
