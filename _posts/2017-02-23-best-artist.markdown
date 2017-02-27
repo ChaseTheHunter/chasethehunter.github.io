@@ -8,7 +8,7 @@
   tags: 'Personal-Projects'
   author: Chase
   active: Personal Projects
-  bg: 'aside/pp.png'
+  bg: 'aside/ba.png'
 ---
 
 ## **Best Artist 2014 (-2015)**
