@@ -9,6 +9,9 @@ tags: 'Personal-Stuff'
 author: Chase
 bg: 'aside/priv2.jpg'
 ---
+
+*Wanna know what I do in my free time? Then go ahead and have a look at several illustrations, sketches, designs and so on!*
+
 ## **Illustrations**
 
 ![Concept 07]({{ site.images }}/personal/p_illustration6.jpg)
