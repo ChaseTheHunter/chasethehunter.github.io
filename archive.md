@@ -3,8 +3,8 @@ bg: 'aside/priv.jpg'
 layout: page
 permalink: /posts/
 title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+crawlertitle: "archive"
+summary: "The Archive"
 active: archive
 ---
 
