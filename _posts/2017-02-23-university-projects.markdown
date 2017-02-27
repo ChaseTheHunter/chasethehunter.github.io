@@ -1,23 +1,22 @@
 ---
   layout: post
-  title:  "Personal Projects"
-  crawlertitle: "personal projects"
-  summary: "Have a look at all my personal projects."
+  title:  "University Projects"
+  crawlertitle: "university projects"
+  summary: "Have a look at all my projects from university."
   date:   2017-02-23  +0700
   categories: personal_projects
-  tags: 'Personal-Projects'
+  tags: 'University-Projects'
   author: Chase
-  active: Personal Projects
-  bg: 'aside/pp.png'
+  active: University Projects
+  bg: 'aside/thetower.png'
 ---
-*Browse through my personal projects I work on in my free time.*
+*Browse through my projects from university*
 
-  ## Personal Collaborative Projects and Contests 
-  * OC-Anthology Artbook
-  * Best Artist
-  * Crazy Bat Manga Challenge 
+  ## Collaborative Student Projects 
+  * The Tower
+  * It is better for us
   
-  ## Other Personal Projects 
-  * Illustrations, Characterdesigns & Studies
-  * Photography
+  ## Solo Projects
+  * 2D Animations
+  * A Dead Man's Blood Flows
 
