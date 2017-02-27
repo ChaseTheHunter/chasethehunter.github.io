@@ -5,7 +5,7 @@
   summary: "Have a look at my first Artbook-Collaboration which I organised with TheJenno"
   date:   2017-02-08 +0700
   categories: personal_projects
-  tags: 'Personal-Projects'
+  tags: 'OC-Anthology-Artbook'
   author: Chase
   active: Personal Projects
   bg: 'aside/pp.png'
