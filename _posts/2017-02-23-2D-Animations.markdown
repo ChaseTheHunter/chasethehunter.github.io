@@ -3,7 +3,7 @@ layout: post
 title:  "2D Animations"
 crawlertitle: "2D Animations"
 summary: "Watch all the 2D Animations and Animatics I did during my time at h_da university. Enjoy!"
-date:   2017-02-23 +0700
+date:   2017-02-05 +0700
 categories: uni_projects
 tags: '2D-Animation'
 author: Chase
