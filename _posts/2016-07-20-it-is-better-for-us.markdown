@@ -3,7 +3,7 @@ layout: post
 title:  "It is better for us - Isi main bhalaái hai"
 crawlertitle: "it is better for us"
 summary: "The elderly married couple struggles to take care of each other in their daily life, due to their age and health. Kishori has to take care of her husband Jack, who is sitting in a wheelchair and starts suffering from parkinson. But Kishori’s ability to help him decreases until Jack is sent to an retirement home."
-date:   2016-07-04 +0700
+date:   2017-02-04 +0700
 categories: uni_projects
 tags: '3D-Animated-Short'
 author: Chase
