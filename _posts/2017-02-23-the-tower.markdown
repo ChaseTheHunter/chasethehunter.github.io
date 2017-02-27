@@ -10,7 +10,8 @@ tags: 'WiiU-Game'
 author: Chase
 bg: 'aside/thetower.png'
 ---
-
+*__The Local Coop Experience for Nintendo WiiU.__ 
+Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
