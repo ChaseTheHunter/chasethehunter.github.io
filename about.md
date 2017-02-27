@@ -17,7 +17,7 @@ You *may* not have noticed, but I'm really into all this nerdstuff. Y'know like 
 
 **Thank you for visiting my website, have fun while browsing!** 
 
-Caught your interest? Contact me: thomas.chase.scheffel@gmail.com
+Caught your interest? Contact me: _**thomas.chase.scheffel@gmail.com**_
 
 You can also find me on Facebook:
 [Maultaschenprinz](https://www.facebook.com/Maultaschenprinz/)
