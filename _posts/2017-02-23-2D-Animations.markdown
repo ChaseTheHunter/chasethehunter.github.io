@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/2dan.jpg'
 ---
 
-
+*Watch all the 2D Animations and Animatics I did during my time at h_da university. Enjoy!*
 
 {% include youtubePlayer.html id='EnevMsii0g4' %}
 *Video: Transformation -2016* 
