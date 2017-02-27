@@ -3,7 +3,7 @@
   title:  "Best Artist"
   crawlertitle: "best artist"
   summary: "Have a look at my Illustrations for the Best Artist 2014 - 2015"
-  date:   2017-02-23 23:09:47 +0700
+  date:   2017-02-02 +0700
   categories: personal_projects
   tags: 'Personal-Projects'
   author: Chase
