@@ -3,7 +3,7 @@
   title:  "Crazy Bat Manga Challenge"
   crawlertitle: "crazy bat manga challenge"
   summary: "My contribution to the CBMC in 2015"
-  date:   2017-02-23 23:09:47 +0700
+  date:   2017-02-01 +0700
   categories: personal_projects
   tags: 'Personal-Projects'
   author: Chase
