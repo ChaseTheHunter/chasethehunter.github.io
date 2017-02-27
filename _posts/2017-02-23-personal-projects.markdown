@@ -12,12 +12,12 @@
 ---
 *Browse through my personal projects I work on in my free time.*
 
-  ## Personal Collaborative Projects and Contests #
+  ## **Personal Collaborative Projects and Contests**
   * OC-Anthology Artbook
   * Best Artist
   * Crazy Bat Manga Challenge 
   
-  ## Other Personal Projects #
+  ## **Other Personal Projects**
   * Illustrations, Characterdesigns & Studies
   * Photography
 
