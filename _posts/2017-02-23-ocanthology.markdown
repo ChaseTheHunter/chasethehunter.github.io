@@ -25,7 +25,6 @@ It's an 114-paged Artbook about the different OCs *(Original Characters)* from ~
 ![Concept 01]({{ site.images }}/personal/pp_pageSample.png)
 *Pictures: Page Samples* 
 
-//insert Video later
-{% include youtubePlayer.html id='XXXX' %}
+{% include youtubePlayer.html id='Fsy5sbtNubE' %}
 *Video: Browsing through the Artbook*
 
