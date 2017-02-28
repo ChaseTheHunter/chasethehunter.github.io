@@ -27,7 +27,7 @@ bg: 'aside/priv3.png'
 *Picture: Pluviophile -08/2015* 
 
 
-## **Role Playing Characters**
+## **Role Playing Character**
 _**Raban, The Alchemist**_ 
 
 ![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
@@ -41,8 +41,6 @@ _**Raban, The Alchemist**_
 
 ![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
 *Pictures: Raban interacting -2016* 
-
-//Chara Description (still need to think about how to present that)
 
 
 ## **Other Character Designs**
