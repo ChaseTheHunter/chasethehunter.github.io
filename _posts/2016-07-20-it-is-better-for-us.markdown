@@ -20,7 +20,7 @@ The Environment has a subtle color transition, warm colors for the seemingly hap
 This project was my first attemp in 3D Animation. We had 3 weeks of animation time, which was tough, but a great experience on how to deal with the scope of a project under great pressure. 
 *(Note to "Time": joined the team in the second half of the semester)*
 
-https://vimeo.com/173833208
+[Watch the Short here](https://vimeo.com/173833208)
 
 ![Concept 01]({{ site.images }}/unip/s2_rendered1.jpg)
 ![Concept 02]({{ site.images }}/unip/s2_rendered2.jpg)
