@@ -12,12 +12,12 @@
 ---
 *Browse through my personal projects I work on in my free time.*
 
-  ## **Personal Collaborative Projects and Contests**
-  * OC-Anthology Artbook
-  * Best Artist
-  * Crazy Bat Manga Challenge 
+  **Personal Collaborative Projects and Contests:**
+  * [OC-Anthology Artbook](https://chasethehunter.github.io/personal_projects/ocanthology/)
+  * [Best Artist](https://chasethehunter.github.io/personal_projects/best-artist/)
+  * [Crazy Bat Manga Challenge](https://chasethehunter.github.io/personal_projects/crazybat-manga-challenge/)
   
-  ## **Other Personal Projects**
-  * Illustrations, Characterdesigns & Studies
-  * Photography
+  **Other Personal Projects:**
+  * [Illustrations, Characterdesigns & Studies](https://chasethehunter.github.io/personal_stuff/personal-stuff/)
+  * [Photography](https://chasethehunter.github.io/photography/photography/)
 
