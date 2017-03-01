@@ -11,9 +11,7 @@ active: about
 ## **About me**
 I'm Chase, 
 
-21 years young and currently studying Animation and Game at the [h_da](https://www.h-da.de/studium/studienangebot/studiengaenge/architektur-medien-und-design/animation-game-ba/). I'm an [ISTJ](https://www.16personalities.com/istj-personality) which means I'm a sucker for work and this all honor n stuff. Oh oh! And routine, dear maker, I loooove routine! Optimizing the work to its most efficient peak, which means doing the best that I can while binge-watching the heck out of so many series... I'd love to say that I'm *just kidding*. Anyway besides dedicating my soul to being productive, I'm just as shy as a rabbit and a 160cm tall living being full of insecurities. But HEY, who isn't? Guess that's just what makes us human after all.  
-
-You *may* not have noticed, but I'm really into all this nerdstuff. Y'know like Comics, Anime, RPG, Video-Game typ'a things. But just using what's out there isn't enough for me, I wanna contribute to this world of special snowflakes as well! This is my passion, my goal and everyday I'm getting a step closer. 
+21 years old and currently studying Animation and Game at the [h_da](https://www.h-da.de/studium/studienangebot/studiengaenge/architektur-medien-und-design/animation-game-ba/). I'm an [ISTJ](https://www.16personalities.com/istj-personality) which means I'm a reliable and hard worker. I'm really passionate about Games, Comics, Animes etc... but only using what's out there isn't enough for me. I want to contribute my part to this world by creating them myself with a great team. This is my passion, my goal and everyday I'm getting a step closer to it. 
 
 **Thank you for visiting my website, have fun while browsing!** 
 
