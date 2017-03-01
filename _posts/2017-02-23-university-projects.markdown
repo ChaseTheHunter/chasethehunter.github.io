@@ -12,11 +12,11 @@
 ---
 *Browse through my projects from university*
 
-  ## Collaborative Student Projects 
-  * The Tower
-  * It is better for us
+  **Collaborative Student Projects **
+  * [The Tower](https://chasethehunter.github.io/uni_projects/the-tower/)
+  * [It is better for us](https://chasethehunter.github.io/uni_projects/it-is-better-for-us/)
   
-  ## Solo Projects
-  * 2D Animations
-  * A Dead Man's Blood Flows
+  **Solo Projects**
+  * [2D Animations](https://chasethehunter.github.io/uni_projects/2D-Animations/)
+  * [A Dead Man's Blood Flows](https://chasethehunter.github.io/uni_projects/freestyle-week/)
 
