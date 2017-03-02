@@ -22,6 +22,8 @@ This project was my first attemp in 3D Animation. We had 3 weeks of animation ti
 
 [Watch the Short here](https://vimeo.com/173833208)
 
+{% include youtubePlayer.html id='173833208' %}
+
 ![Concept 01]({{ site.images }}/unip/s2_rendered1.jpg)
 ![Concept 02]({{ site.images }}/unip/s2_rendered2.jpg)
 
