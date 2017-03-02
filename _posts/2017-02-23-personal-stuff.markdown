@@ -17,6 +17,9 @@ bg: 'aside/priv3.png'
 ![Concept 07]({{ site.images }}/personal/p_illustration6.jpg)
 *Picture: Heroes never die (Overwatch) -02/2017* 
 
+{% include youtubePlayer.html id='Azc9CWdRrsw' %}
+*Video: Heroes never die, timelapse -02/2017*
+
 ![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
 *Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
 
