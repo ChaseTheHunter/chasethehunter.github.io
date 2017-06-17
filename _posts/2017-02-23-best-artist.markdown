@@ -21,13 +21,13 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 
 **Best Artist 2017**
 
-![Concept 06]({{ site.images }}/personal/pp_ba3.jpg)
+![Concept 06]({{ site.images }}/personal/BA_Runde_3.jpg)
 *Picture: 3-  Enjoy yourself		(Thiefs of the Orient)*
 
-![Concept 07]({{ site.images }}/personal/pp_ba2.jpg)
+![Concept 07]({{ site.images }}/personal/BA_Runde_2.jpg)
 *Picture: 2-  The typical Balley Orc	(Ugly Monster whos dancing)*
 
-![Concept 08]({{ site.images }}/personal/pp_ba1.jpg)
+![Concept 08]({{ site.images }}/personal/BA_Runde_1.jpg)
 *Picture: 1-  Bounty Hunter		(Humanize a Sweet)*
 
 **Best Artist June 2014 - April 2015**
