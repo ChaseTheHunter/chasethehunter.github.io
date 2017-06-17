@@ -3,12 +3,12 @@
   title:  "Best Artist"
   crawlertitle: "best artist"
   summary: "Have a look at my Illustrations for the Best Artist 2017 // 2014 - 2015"
-  date:   2017-02-02 +0700
+  date:   2017-04-02 +0700
   categories: personal_projects
   tags: 'Best-Artist'
   author: Chase
   active: Personal Projects
-  bg: 'aside/ba.png'
+  bg: 'aside/ba2.png'
 ---
 *Have a look at my Illustrations for the Best Artist*
 
@@ -22,7 +22,7 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 **Best Artist 2017**
 
 ![Concept 06]({{ site.images }}/personal/BA_Runde_3.jpg)
-*Picture: 3-  Enjoy yourself		(Thiefs of the Orient)*
+*Picture: 3-  Enjoy yourself		(Thieves of the Orient)*
 
 ![Concept 07]({{ site.images }}/personal/BA_Runde_2.jpg)
 *Picture: 2-  The typical Balley Orc	(Ugly Monster whos dancing)*
