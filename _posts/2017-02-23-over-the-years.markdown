@@ -1,42 +1,27 @@
 ---
 layout: post
-title:  "The Tower"
-crawlertitle: "The Tower"
-summary: "The Local Coop Experience for Nintendo WiiU. 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
-date:   2017-02-09 +0700
+title:  "Over the Years"
+crawlertitle: "Over the Years"
+summary: "CG Animated Short"
+date:   2018 +0700
 categories: uni_projects
-tags: 'WiiU-Game'
+tags: 'animated-short'
 author: Chase
 bg: 'aside/thetower.png'
 ---
-*__The Local Coop Experience for Nintendo WiiU.__ 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital.*
+*__The first experience for young Developers!__ <br>
+Children get started to get in touch with programming with the help of their robot*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-2D MetroidVania Platformer for WiiU | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | 5 Months |
+
+The about text is here.
 
 
-The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+{% include youtubePlayer.html id='oBv_odbrVnU' %}
+<p align="center"><i> Video: Showreel </i></p> 
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
-
-*Video: Showreel The Tower* 
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-*Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
-
-{% include youtubePlayer.html id='E9qggo6BKGs' %}
-*Video: 2D Rigging with Spine Esoteric Software*
-
-![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
-![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
-*Picture: Endboss Movement Concept*
-
-![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
-![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
-![Concept 06]({{ site.images }}/unip/s3_screenshot4.png)
-![Concept 07]({{ site.images }}/unip/s3_screenshot5.png)
-![Concept 08]({{ site.images }}/unip/s3_screenshot6.png)
-*Pictures: Ingame Screenshots*
+<p align="center"><i>Picture: textext </i></p>
