@@ -3,7 +3,7 @@ layout: post
 title:  "The Cat Nap Show"
 crawlertitle: "The Cat Nap Show"
 summary: "The Cat Nap Show is a satire piece about cultural appropiation and the clash between old and new media."
-date:   2017-02-23 +0700
+date:   01-02-2018 +0700
 categories: uni_projects
 tags: '2D-animated-short'
 author: Chase
