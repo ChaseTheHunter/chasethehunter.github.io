@@ -13,6 +13,7 @@
 *Browse through my personal projects I work on in my free time.*
 
   **Personal Collaborative Projects and Contests:**
+  * [Magnolian Knight](https://chasethehunter.github.io/personal_projects/magnolian-knight/)
   * [OC-Anthology Artbook](https://chasethehunter.github.io/personal_projects/ocanthology/)
   * [Best Artist](https://chasethehunter.github.io/personal_projects/best-artist/)
   * [Crazy Bat Manga Challenge](https://chasethehunter.github.io/personal_projects/crazybat-manga-challenge/)
