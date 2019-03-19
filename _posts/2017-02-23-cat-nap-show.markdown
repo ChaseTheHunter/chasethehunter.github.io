@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/catnap.png'
 ---
 *__IT'S THE CAT NAP SHOW WITH STEPHEN PURRBERT__* 
-Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat Nap Show is a satire piece about cultural appropiation and the clash between old and new media. *
+Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat Nap Show is a satire piece about cultural appropiation and the clash between old and new media.
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
