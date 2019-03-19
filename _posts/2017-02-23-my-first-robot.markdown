@@ -3,7 +3,7 @@ layout: post
 title:  "My First Robot"
 crawlertitle: "My First Robot"
 summary: "Programming for Children"
-date:   2017 +0700
+date:   2017-10-01 +0700
 categories: uni_projects
 tags: 'App Game'
 author: Chase
