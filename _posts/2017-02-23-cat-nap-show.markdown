@@ -24,7 +24,7 @@ The environment is designed after typical late night shows and fused with the cu
 <p align="center"> <i>Video: The Cat Nap Show</i> </p>
 
 {% include youtubePlayer.html id='sXDurMU6Ybk' %}
-*<p align="center">Video: Showreel</p>*
+<p align="center"><i>Video: Showreel</i></p>
 
 ![Concept 01]({{ site.images }}/unip/catnapshow_screenshot.png)
 
