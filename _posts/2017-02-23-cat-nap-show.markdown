@@ -21,10 +21,10 @@ The environment is designed after typical late night shows and fused with the cu
 
 
 {% include youtubePlayer.html id='OKRacFlhzJI' %}
-[center]*Video: The Cat Nap Show* [/center]
+<p align="center">*Video: The Cat Nap Show* </p>
 
 {% include youtubePlayer.html id='sXDurMU6Ybk' %}
-*Video: Showreel EDIT*
+*Video: Showreel*
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
