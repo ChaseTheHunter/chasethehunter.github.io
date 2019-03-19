@@ -16,7 +16,7 @@ Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
 Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | 5 Months |
 
-[Tinkerbots: My First Robot, Product Page]https://www.tinkerbots.de/roboter-bausatz/my-first-robot/my-first-robot/ 
+[Tinkerbots: My First Robot, Product Page](https://www.tinkerbots.de/roboter-bausatz/my-first-robot/my-first-robot/)
 
 {% include youtubePlayer.html id='oBv_odbrVnU' %}
 
