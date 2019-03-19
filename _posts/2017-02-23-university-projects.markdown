@@ -13,6 +13,9 @@
 *Browse through my projects from university*
 
   **Collaborative Student Projects:**
+  * [Colours of Despair](https://chasethehunter.github.io/uni_projects/colors-of-despair/)
+  * [Over the Years](https://chasethehunter.github.io/uni_projects/over-the-years/)
+  * [The CatNap Show](https://chasethehunter.github.io/uni_projects/cat-nap-show/)
   * [The Tower](https://chasethehunter.github.io/uni_projects/the-tower/)
   * [It is better for us](https://chasethehunter.github.io/uni_projects/it-is-better-for-us/)
   
