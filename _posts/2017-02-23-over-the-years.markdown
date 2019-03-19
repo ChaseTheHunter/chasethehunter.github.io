@@ -3,7 +3,7 @@ layout: post
 title:  "Over the Years"
 crawlertitle: "Over the Years"
 summary: "CG Animated Short"
-date:   2018 +0700
+date:   2018-06-15 +0700
 categories: uni_projects
 tags: 'animated-short'
 author: Chase
