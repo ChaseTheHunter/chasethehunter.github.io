@@ -1,23 +1,17 @@
 ---
   layout: post
-  title:  "University Projects"
-  crawlertitle: "university projects"
-  summary: "Have a look at all my projects from university."
+  title:  "Commercial Projects"
+  crawlertitle: "commercial projects"
+  summary: "Have a look at all my projects at various companies."
   date:   2017-01-31  +0700
-  categories: university_projects
-  tags: 'University-Projects'
+  categories: commercial-projects
+  tags: 'Commercial-Projects'
   author: Chase
-  active: University Projects
+  active: Commercial Projects
   bg: 'aside/thetower.png'
 ---
-*Browse through my projects from university*
 
-  **Collaborative Student Projects:**
-  * [The Tower](https://chasethehunter.github.io/uni_projects/the-tower/)
-  * [It is better for us](https://chasethehunter.github.io/uni_projects/it-is-better-for-us/)
-  
-  
-  **Solo Projects:**
-  * [2D Animations](https://chasethehunter.github.io/uni_projects/2D-Animations/)
-  * [A Dead Man's Blood Flows](https://chasethehunter.github.io/uni_projects/freestyle-week/)
+  **Tinkerbots, Kinematics GmbH, Berlin:**
+  * [My first Robot](https://chasethehunter.github.io/uni_projects/my-first-robot/)
+ 
 
