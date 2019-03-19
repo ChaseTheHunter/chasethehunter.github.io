@@ -24,8 +24,8 @@ Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation |
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
 <p align="center"><i> Video: Showreel My First Robot </i></p> 
 
-![Tinkerbots_Thomas-Chase_Scheffel-1]({{ site.images }}/commercial/tbot_1.png)
-![Tinkerbots_Thomas-Chase_Scheffel-2]({{ site.images }}/commercial/tbot_2.png)
+![Tinkerbots_Thomas-Chase_Scheffel-1]({{ site.images }}/commercial/tbot_1.jpg)
+![Tinkerbots_Thomas-Chase_Scheffel-2]({{ site.images }}/commercial/tbot_2.jpg)
 <p align="center"><i>Picture: Animation Concepts </i></p>
 
 ![Tinkerbots_Thomas-Chase_Scheffel-1]({{ site.images }}/commercial/tbo_gif.gif)
