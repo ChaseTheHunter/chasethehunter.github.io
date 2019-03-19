@@ -19,7 +19,8 @@ Genre | Role | Focus | Time |
 
 The environment is designed after typical late night shows and fused with the current '20s aesthetic revival. The Cat Nap show is inspired by Stephen Colbert's The Late Show.
 
-{% include youtubePlayer.html id='_OKRacFlhzJI' %}
+{% include youtubePlayer.html id='OKRacFlhzJI' %}
+
 
 *Video: The Cat Nap Show* 
 
