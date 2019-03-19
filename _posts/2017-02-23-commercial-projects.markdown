@@ -8,7 +8,7 @@
   tags: 'Commercial-Projects'
   author: Chase
   active: Commercial Projects
-  bg: 'aside/thetower.png'
+  bg: 'aside/tbots.png'
 ---
 
   **Tinkerbots, Kinematics GmbH, Berlin:**
