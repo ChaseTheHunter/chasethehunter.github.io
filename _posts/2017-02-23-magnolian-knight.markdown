@@ -1,7 +1,7 @@
 ---
   layout: post
-  title:  "Best Artist"
-  crawlertitle: "best artist"
+  title:  "Magnolian Knight"
+  crawlertitle: "Magnolian Knight"
   summary: "Have a look at my Illustrations for the Best Artist 2017 // 2014 - 2015"
   date:   2017-04-02 +0700
   categories: personal_projects
@@ -13,13 +13,22 @@
 *Have a look at my Illustrations for the Best Artist*
 
 
-About | Role | Time |
+*__The first experience for young Developers!__ <br>
+Children get started to get in touch with programming with the help of their robot*
+
+Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-6 Illustrations based on given themes | **Participant** | - |
+Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | 5 Months |
 
-The Best Artist Contest has several rounds, in each you get rated and pass onto the next round or not. For each round you get themes and rules you have follow. In general there are ~85 participants and 6 rounds. It's a great opportunity to get in touch with new people and share experience besides the means of a contest. 
 
-**Best Artist 2017**
+
+{% include youtubePlayer.html id='oBv_odbrVnU' %}
+<p align="center"><i> Video: Showreel My First Robot </i></p> 
+
+
+![Concept 01]({{ site.images }}/unip/s3_concept1.png)
+<p align="center"><i>Picture: textext </i></p>
+
 
 ![Concept 06]({{ site.images }}/personal/BA_Runde_3.jpg)
 *Picture: 3-  Enjoy yourself		(Thieves of the Orient)*
@@ -30,27 +39,7 @@ The Best Artist Contest has several rounds, in each you get rated and pass onto 
 ![Concept 08]({{ site.images }}/personal/BA_Runde_1.jpg)
 *Picture: 1-  Bounty Hunter		(Humanize a Sweet)*
 
-**Best Artist June 2014 - April 2015**
 
-![Concept 03]({{ site.images }}/personal/pp_ba6.jpg)
-*Picture: 6-	Celestial Witchcraft		(free theme)* 
-
-![Concept 04]({{ site.images }}/personal/pp_ba5.jpg)
-*Picture: 5-  Fully American		(USA, every participant gets a country)*
-
-![Concept 05]({{ site.images }}/personal/pp_ba4.jpg)
-*Picture: 4-  Symbiosis			(A Person and their fantasy-animal)*
-
-![Concept 06]({{ site.images }}/personal/pp_ba3.jpg)
-*Picture: 3-  Steampunk Café		(Steampunk Scenery)*
-
-![Concept 07]({{ site.images }}/personal/pp_ba2.jpg)
-*Picture: 2-  The Moon and the Rabbit	(Fighting Scene either with or against each other)*
-
-![Concept 08]({{ site.images }}/personal/pp_ba1.jpg)
-*Picture: 1-  The Valiant little Tailor		(Redesign a Fairytale Character)*
-
-*Check out their page! [Best Artist](https://www.facebook.com/bestartist.german/?fref=ts)*
 
 
 
