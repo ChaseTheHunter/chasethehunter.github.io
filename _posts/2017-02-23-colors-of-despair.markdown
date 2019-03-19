@@ -3,7 +3,7 @@ layout: post
 title:  "Colours of Despair"
 crawlertitle: "Colours of Despair"
 summary: "Vive la Revolution!"
-date:   2019-04-15 +0700
+date:   2017-02-23 +0700
 categories: uni_projects
 tags: '2D-animated-short'
 author: Chase
