@@ -4,7 +4,7 @@
   crawlertitle: "commercial projects"
   summary: "Have a look at all my projects at various companies."
   date:   2017-01-31  +0700
-  categories: commercial-projects
+  categories: commercial_projects
   tags: 'Commercial-Projects'
   author: Chase
   active: Commercial Projects
