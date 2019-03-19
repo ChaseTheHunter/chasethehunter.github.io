@@ -21,19 +21,14 @@ The environment is designed after typical late night shows and fused with the cu
 
 
 {% include youtubePlayer.html id='OKRacFlhzJI' %}
-
 *Video: The Cat Nap Show* 
 
+{% include youtubePlayer.html id='sXDurMU6Ybk' %}
+*Video: Showreel*
+
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-*Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
-
-{% include youtubePlayer.html id='E9qggo6BKGs' %}
-*Video: 2D Rigging with Spine Esoteric Software*
-
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
 ![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
-*Picture: Endboss Movement Concept*
-
 ![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
 
 *Pictures: Ingame Screenshots*
