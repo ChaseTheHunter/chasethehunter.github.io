@@ -21,7 +21,7 @@ The environment is designed after typical late night shows and fused with the cu
 
 
 {% include youtubePlayer.html id='OKRacFlhzJI' %}
-*Video: The Cat Nap Show* 
+[center]*Video: The Cat Nap Show* [/center]
 
 {% include youtubePlayer.html id='sXDurMU6Ybk' %}
 *Video: Showreel EDIT*
