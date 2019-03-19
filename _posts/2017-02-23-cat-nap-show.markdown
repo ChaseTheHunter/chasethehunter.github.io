@@ -1,28 +1,27 @@
 ---
 layout: post
-title:  "The Tower"
-crawlertitle: "The Tower"
-summary: "The Local Coop Experience for Nintendo WiiU. 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital."
+title:  "The Cat Nap Show"
+crawlertitle: "The Cat Nap Show"
+summary: "Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat Nap Show is a satire piece about cultural appropiation of modern times."
 date:   2017-02-09 +0700
 categories: uni_projects
-tags: 'WiiU-Game'
+tags: '2D-animated-short'
 author: Chase
 bg: 'aside/thetower.png'
 ---
-*__The Local Coop Experience for Nintendo WiiU.__ 
-Twelve-year old Riley is called by the ghostly appearance of her best friend Lou to save her from captivity in a tower full of dangers and monsters. The tower is a metaphor for Riley's emotional state, since she has trouble dealing  with the fact her best friend suffers from the severe illness MS in a hospital.*
+*__IT'S THE CAT NAP SHOW WITH STEPHEN PURRBERT__ 
+Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat Nap Show is a satire piece about cultural appropiation of modern times.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-2D MetroidVania Platformer for WiiU | **2D Artist, 2D Rigger** | Assets, Enemy Design & Rigging | 1 Semester |
+2D animated Short | **2D Artist, 2D Rigger, 2D Animator** | Assets, Chelsea Animation & Rigging | 1 Semester |
 
 
-The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
+The environment is designed after typical late night shows and fused with the current '20s aesthetic revival. The Cat Nap show is inspired by Stephen Colbert's The Late Show.
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+{% include youtubePlayer.html id='_OKRacFlhzJI' %}
 
-*Video: Showreel The Tower* 
+*Video: The Cat Nap Show* 
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
 *Picture: Enemy sprites relative to Characters. 1)Hopfer 2)Flowerbird 3)Zapp 4)Endboss*
@@ -35,8 +34,5 @@ The environment and enemies represent Riley’s state of denial the illness Lou 
 *Picture: Endboss Movement Concept*
 
 ![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
-![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
-![Concept 06]({{ site.images }}/unip/s3_screenshot4.png)
-![Concept 07]({{ site.images }}/unip/s3_screenshot5.png)
-![Concept 08]({{ site.images }}/unip/s3_screenshot6.png)
+
 *Pictures: Ingame Screenshots*
