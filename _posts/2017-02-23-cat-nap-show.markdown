@@ -7,7 +7,7 @@ date:   2017-02-09 +0700
 categories: uni_projects
 tags: '2D-animated-short'
 author: Chase
-bg: 'aside/thetower.png'
+bg: 'aside/catnap.png'
 ---
 *__IT'S THE CAT NAP SHOW WITH STEPHEN PURRBERT__ 
 Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat Nap Show is a satire piece about cultural appropiation of modern times. *
