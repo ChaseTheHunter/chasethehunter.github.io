@@ -19,7 +19,7 @@ CG Animation | **2D Artist, 2D Animator, Compositor** | 2D Animation, Compositin
 {% include youtubePlayer.html id='E4axe6XuCRY' %}
 <p align="center"><i> Video on CG Bros </i></p> 
 
-{% include youtubePlayer.html id='-pBZ1yh-LYM&t' %}
+{% include youtubePlayer.html id='-pBZ1yh-LYM' %}
 <p align="center"><i> Video: Showreel </i></p> 
 
 
