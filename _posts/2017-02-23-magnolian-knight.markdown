@@ -5,7 +5,7 @@
   summary: "The Magnolian Knight fights their way through a mysterious world to find all the missing pieces of their sword. Meanwhile they're experiencing glimpses of past times."
   date:   2019-04-02 +0700
   categories: personal_projects
-  tags: 'Best-Artist'
+  tags: 'Game'
   author: Chase
   active: Personal Projects
   bg: 'aside/ba2.png'
