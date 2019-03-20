@@ -5,7 +5,7 @@ crawlertitle: "My First Robot"
 summary: "Programming for Children"
 date:   2017-10-01 +0700
 categories: uni_projects
-tags: 'App Game'
+tags: 'Game'
 author: Chase
 bg: 'aside/tbots.png'
 ---
