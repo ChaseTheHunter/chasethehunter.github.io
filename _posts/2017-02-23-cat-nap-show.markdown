@@ -14,7 +14,7 @@ Your favorite Host Stephen Purrbert interviews the Meowtuber 'Chelsea'. The Cat 
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-2D animated Short | **2D Artist, 2D Rigger, 2D Animator** | Assets, Chelsea Animation & Rigging | 3 Months |
+2D animated Short | **2D Artist, 2D Rigger, 2D Animator** | Environments, Chelsea Animation & Rigging | 3 Months |
 
 
 The environment is designed after typical late night shows and fused with the current '20s aesthetic revival. The Cat Nap show is inspired by Stephen Colbert's The Late Show. The characters are in contrast to to the old media with their sharp and modern vector deisgns and internet presence.
