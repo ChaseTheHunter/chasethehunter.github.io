@@ -9,12 +9,12 @@ tags: '2D-animated-short'
 author: Chase
 bg: 'aside/thetower.png'
 ---
-*__The first experience for young Developers!__ <br>
-Children get started to get in touch with programming with the help of their robot*
+*__What we seek is equality!__ <br>
+The French Revolution of 1788 is the most iconic one in all of history. Nowadays, the LGBT+ community seeks for more acceptance, thus seeking a peaceful revolution. Watch our protagonists Jules and Marlon fight for their rights together with their allies.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | 5 Months |
+LGBT+, historical Drama | **2D Artist, 2D Animator** | Environment, Animation & Compositing | 4 Months |
 
 
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
