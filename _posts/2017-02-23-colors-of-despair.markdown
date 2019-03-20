@@ -5,7 +5,7 @@ crawlertitle: "Colours of Despair"
 summary: "Vive la Revolution!"
 date:   15-04-2019 +0700
 categories: uni_projects
-tags: '2D-animated-short'
+tags: 'animated-short'
 author: Chase
 bg: 'aside/thetower.png'
 ---
