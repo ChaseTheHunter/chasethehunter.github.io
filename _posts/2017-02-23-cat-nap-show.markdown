@@ -5,7 +5,7 @@ crawlertitle: "The Cat Nap Show"
 summary: "The Cat Nap Show is a satire piece about cultural appropiation and the clash between old and new media."
 date:   01-02-2018 +0700
 categories: uni_projects
-tags: '2D-animated-short'
+tags: 'animated-short'
 author: Chase
 bg: 'aside/catnap.png'
 ---
