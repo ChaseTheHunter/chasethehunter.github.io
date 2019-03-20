@@ -7,7 +7,7 @@ date:   2018-06-15 +0700
 categories: uni_projects
 tags: 'animated-short'
 author: Chase
-bg: 'aside/thetower.png'
+bg: 'aside/s6.png'
 ---
 *__Graffiti, the Voice of the City__ <br>
 Graffiti can have a million meanings. Eventhough it's vandalism it is still a necessary form of art to express the culture and opinions of the citizens*
