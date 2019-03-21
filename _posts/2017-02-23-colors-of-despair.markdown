@@ -14,11 +14,15 @@ The French Revolution of 1788 is the most iconic one in all of history. Nowadays
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-LGBT+, historical Drama | **2D Artist, 2D Animator** | Environment, Animation & Compositing | 4 Months |
+LGBT+, Historical Drama, Trailer | **2D Artist, 2D Animator** | Environment, Animation & Compositing | 4 Months |
 
+{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+<p align="center"><i> Video: Colors of Despair Trailer </i></p> 
 
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
 <p align="center"><i> Video: Showreel </i></p> 
 
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-<p align="center"><i>Picture: textext </i></p>
+![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b3.png)
+![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b2.png)
+![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b1.png)
+<p align="center"><i>Picture: Concepts </i></p>
