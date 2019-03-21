@@ -23,6 +23,6 @@ LGBT+, Historical Drama, Trailer | **2D Artist, 2D Animator** | Environment, Ani
 <p align="center"><i> Video: Showreel </i></p> 
 
 ![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b3.png)
-![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b2.png)
-![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b1.png)
+![Thomas-Chase_Scheffel_Bachelor_Concept2]({{ site.images }}/unip/b2.png)
+![Thomas-Chase_Scheffel_Bachelor_Concept3]({{ site.images }}/unip/b1.png)
 <p align="center"><i>Picture: Concepts </i></p>
