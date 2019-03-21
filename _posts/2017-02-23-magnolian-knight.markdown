@@ -19,12 +19,9 @@ Genre | Role | Focus | Time |
 MetroidVania | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | ongoing |
 
 
-{% include youtubePlayer.html id='oBv_odbrVnU' %}
-<p align="center"><i> Video: Showreel My First Robot </i></p> 
-
-
-![Concept 01]({{ site.images }}/unip/s3_concept1.png)
-<p align="center"><i>Picture: textext </i></p>
+![Thomas-Chase_Scheffel_Concept_MagnolianKnight_1]({{ site.images }}/personal/MK_Concept1.png)
+![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_Gif.png)
+<p align="center"><i>Picture: Early Concepts </i></p>
 
 
 
