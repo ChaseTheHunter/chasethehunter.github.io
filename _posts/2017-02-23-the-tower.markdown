@@ -21,7 +21,6 @@ Genre | Role | Focus | Time |
 The environment and enemies represent Riley’s state of denial the illness Lou suffers from, therefore we go through different stages of the illness. Starting off with with a fantasy theme and the symptoms fatigue, powerlessness and melancholy. 
 
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
-
 *Video: Showreel The Tower* 
 
 ![Concept 01]({{ site.images }}/unip/s3_concept1.png)
@@ -33,6 +32,12 @@ The environment and enemies represent Riley’s state of denial the illness Lou 
 ![Concept 02]({{ site.images }}/unip/s3_concept2.jpg)
 ![Concept 03]({{ site.images }}/unip/s3_concept3.jpg)
 *Picture: Endboss Movement Concept*
+
+{% include youtubePlayer.html id='kALac_frcSE' %}
+*Video: Intro* 
+{% include youtubePlayer.html id='n3NDgNjQp5E' %}
+*Video: Ending* 
+
 
 ![Concept 04]({{ site.images }}/unip/s3_screenshot2.png)
 ![Concept 05]({{ site.images }}/unip/s3_screenshot3.png)
