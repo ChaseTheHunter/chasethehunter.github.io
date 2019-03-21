@@ -7,7 +7,7 @@ date:   15-04-2019 +0700
 categories: uni_projects
 tags: 'animated-short'
 author: Chase
-bg: 'aside/thetower.png'
+bg: 'aside/b.png'
 ---
 *__What we seek is equality!__ <br>
 The French Revolution of 1788 is the most iconic one in all of history. Nowadays, the LGBT+ community seeks for more acceptance, thus seeking a peaceful revolution. Watch our protagonists Jules and Marlon fight for their rights together with their allies.*
@@ -16,7 +16,7 @@ Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
 LGBT+, Historical Drama, Trailer | **2D Artist, Story Artist, 2D Animator** | Environment, Story & Compositing | 4 Months |
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
+{% include youtubePlayer.html id='NSawNj-RZY' %}
 <p align="center"><i> Video: Colors of Despair Trailer </i></p> 
 
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
