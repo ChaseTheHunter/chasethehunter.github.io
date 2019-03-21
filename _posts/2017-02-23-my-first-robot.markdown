@@ -10,7 +10,7 @@ author: Chase
 bg: 'aside/tbots.png'
 ---
 *__The first experience for young Developers!__ <br>
-Children get started to get in touch with programming with the help of their robot*
+My first Robot enables children to get in touch with programming in a playful manner together with their very first robot friend.*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
