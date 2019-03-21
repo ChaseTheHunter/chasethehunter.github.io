@@ -3,7 +3,7 @@
   title:  "Commercial Projects"
   crawlertitle: "commercial projects"
   summary: "Have a look at all my projects at various companies."
-  date:   2017-01-31  +0700
+  date:   2015-01-31  +0700
   categories: commercial_projects
   tags: 'Commercial-Projects'
   author: Chase
