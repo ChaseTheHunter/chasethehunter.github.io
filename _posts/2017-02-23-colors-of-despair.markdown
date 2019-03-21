@@ -14,7 +14,7 @@ The French Revolution of 1788 is the most iconic one in all of history. Nowadays
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-LGBT+, Historical Drama, Trailer | **2D Artist, 2D Animator** | Environment, Animation & Compositing | 4 Months |
+LGBT+, Historical Drama, Trailer | **2D Artist, Story Artist, 2D Animator** | Environment, Story & Compositing | 4 Months |
 
 {% include youtubePlayer.html id='_b8zKcoQcFA' %}
 <p align="center"><i> Video: Colors of Despair Trailer </i></p> 
