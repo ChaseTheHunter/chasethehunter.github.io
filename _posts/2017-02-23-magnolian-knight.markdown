@@ -20,7 +20,7 @@ MetroidVania | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animati
 
 
 ![Thomas-Chase_Scheffel_Concept_MagnolianKnight_1]({{ site.images }}/personal/MK_Concept1.png)
-![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_Gif.png)
+![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_Gif.gif)
 <p align="center"><i>Picture: Early Concepts </i></p>
 
 
