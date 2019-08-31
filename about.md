@@ -20,4 +20,4 @@ Caught your interest? Contact me: _**thomas.chase.scheffel@gmail.com**_
 You can also find me on Facebook:
 [Maultaschenprinz](https://www.facebook.com/Maultaschenprinz/)
 
-![Thomas-Chase Scheffel CV]({{ site.images }}/unip/Resume.png)
+![Thomas-Chase Scheffel CV]({{ site.images }}/unip/resume.png)
