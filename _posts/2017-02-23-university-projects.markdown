@@ -17,7 +17,6 @@
   * [Over the Years](https://chasethehunter.github.io/uni_projects/over-the-years/)
   * [The CatNap Show](https://chasethehunter.github.io/uni_projects/cat-nap-show/)
   * [The Tower](https://chasethehunter.github.io/uni_projects/the-tower/)
-  * [It is better for us](https://chasethehunter.github.io/uni_projects/it-is-better-for-us/)
   
   
   **Solo Projects:**
