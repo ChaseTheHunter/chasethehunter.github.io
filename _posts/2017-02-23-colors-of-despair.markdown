@@ -19,8 +19,6 @@ LGBT+, Historical Drama, Trailer | **2D Artist, Story Artist, 2D Animator** | En
 {% include youtubePlayer.html id='NSawNj-RZYw' %}
 <p align="center"><i> Video: Colors of Despair Trailer </i></p> 
 
-{% include youtubePlayer.html id='_b8zKcoQcFA' %}
-<p align="center"><i> Video: Showreel </i></p> 
 
 ![Thomas-Chase_Scheffel_Bachelor_Concept1]({{ site.images }}/unip/b_3.PNG)
 ![Thomas-Chase_Scheffel_Bachelor_Concept2]({{ site.images }}/unip/b_2.png)
