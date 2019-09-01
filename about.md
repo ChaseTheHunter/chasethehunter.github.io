@@ -18,6 +18,6 @@ I'm Chase,
 Caught your interest? Contact me: _**thomas.chase.scheffel@gmail.com**_
 
 You can also find me on LinkedIn:
-[Thomas-Chase Schefel](https://www.linkedin.com/in/thomas-chase-scheffel-890031174/)
+[Thomas-Chase Scheffel](https://www.linkedin.com/in/thomas-chase-scheffel-890031174/)
 
 ![Thomas-Chase Scheffel CV]({{ site.images }}/unip/resume.png)
