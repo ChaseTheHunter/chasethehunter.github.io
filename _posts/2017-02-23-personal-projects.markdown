@@ -19,6 +19,6 @@
   * [Crazy Bat Manga Challenge](https://chasethehunter.github.io/personal_projects/crazybat-manga-challenge/)
   
   **Other Personal Projects:**
-  * [Illustrations, Characterdesigns & Studies](https://chasethehunter.github.io/personal_stuff/personal-stuff/)
+  * [Illustrations, Characterdesigns & Studies](https://chasethehunter.github.io/personal_art/personal-stuff/)
   * [Photography](https://chasethehunter.github.io/photography/photography/)
 
