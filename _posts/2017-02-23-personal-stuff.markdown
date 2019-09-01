@@ -13,48 +13,22 @@ bg: 'aside/priv3.png'
 
 ## **Illustrations**
 
-![Concept 07]({{ site.images }}/personal/p_illustration6.jpg)
-*Picture: Heroes never die (Overwatch) -02/2017* 
+![Concept 14]({{ site.images }}/personal/p_illustration10.jpg)
+ 
+![Concept 13]({{ site.images }}/personal/p_illustration8.jpg)
+*Picture: Romantic Sunset* 
 
-{% include youtubePlayer.html id='Azc9CWdRrsw' %}
-*Video: Heroes never die, timelapse -02/2017*
+![Concept 06]({{ site.images }}/personal/p_illustration7.jpg)
+*Picture: RPG Characters fighting Wendigo* 
 
-![Concept 06]({{ site.images }}/personal/p_illustration5.jpg)
-*Picture: Duckies Kingdom -01/2017 [based on](http://gag.fm/gag/20235/duckies-kingdom.html)* 
+![Concept 14]({{ site.images }}/personal/p_illustration9.jpg)
+*Picture: Pacific Rim Study* 
 
-![Concept 07]({{ site.images }}/personal/p_illustration2.jpg)
-*Picture: First Night as a Party -09/2016* 
+![Concept 12]({{ site.images }}/personal/p_stud4.jpg)
+*Picture: Untitled Portrait -11/2016* 
 
 ![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
 *Picture: Pluviophile -08/2015* 
-
-
-## **Role Playing Character**
-_**Raban, The Alchemist**_ 
-
-![Concept 01]({{ site.images }}/personal/charaDes2.jpg)
-*Picture: Rabans Character Design -2016* 
-
-![Concept 02]({{ site.images }}/personal/p_illustration3.jpg)
-*Picture: The Curse -2016* 
-
-{% include youtubePlayer.html id='gLDoFA30Jp8' %}
-*Video: The Curse, timelapse -2016*
-
-![Concept 03]({{ site.images }}/personal/charaDes2_1.jpg)
-*Pictures: Raban interacting -2016* 
-
-
-## **Other Character Designs**
-
-![Concept 04]({{ site.images }}/personal/charaDes1.jpg)
-*Picture: Every J-RPG ever -04/2016* 
-![Concept 05]({{ site.images }}/personal/charaDes3.jpg)
-*Picture: now-time-fantasy medic character -03/2016*
-
-
-
-## **Studies**
 
 ![Concept 09]({{ site.images }}/personal/p_stud1.jpg)
 *Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016* 
@@ -65,7 +39,6 @@ _**Raban, The Alchemist**_
 ![Concept 11]({{ site.images }}/personal/p_stud3.jpg)
 *Picture: Got an arrow in my back -11/2016* 
 
-![Concept 12]({{ site.images }}/personal/p_stud4.jpg)
-*Picture: Portrait Test -11/2016* 
-
+![Concept 07]({{ site.images }}/personal/p_illustration2.jpg)
+*Picture: First Night as a Party -09/2016* 
 
