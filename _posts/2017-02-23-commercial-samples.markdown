@@ -2,7 +2,7 @@
 layout: post
 title:  "Advertisement Samples"
 crawlertitle: "advertisementsamples"
-summary: "Samples for Advertisement"
+summary: "Video-Samples for Advertisement"
 date:   2017-10-01 +0700
 categories: commercial_projects
 tags: 'Advertisement'
@@ -14,7 +14,7 @@ Animations created with Spine, Compositing in After Effects*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-Ads | **2D Art & Animator, Compositing** | - | - |
+Ads | **2D Art & Animation, Compositing** | - | - |
 
 
 {% include youtubePlayer.html id='wfnSzKeHEwU' %}
