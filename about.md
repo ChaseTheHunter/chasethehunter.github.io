@@ -2,7 +2,7 @@
 bg: 'aside/me3.png'
 layout: page
 title: "About"
-crawlertitle: "About"
+crawlertitle: "AboutThomasChaseScheffel"
 permalink: /about/
 summary: "Greetings! Here you can find out all necessary information about me."
 active: about
@@ -17,7 +17,7 @@ I'm Chase,
 
 Caught your interest? Contact me: _**thomas.chase.scheffel@gmail.com**_
 
-You can also find me on Facebook:
-[Maultaschenprinz](https://www.facebook.com/Maultaschenprinz/)
+You can also find me on LinkedIn:
+[Thomas-Chase Schefel](https://www.linkedin.com/in/thomas-chase-scheffel-890031174/)
 
 ![Thomas-Chase Scheffel CV]({{ site.images }}/unip/resume.png)
