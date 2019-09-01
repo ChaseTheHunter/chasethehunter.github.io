@@ -9,6 +9,7 @@ tags: 'Personal-Art'
 author: Chase
 bg: 'aside/priv3.png'
 ---
+*Here are some Samples of my personal Artstyle and Motives. I can adapt to many styles and genres. My favorite style is semi-realistic though.*
 
 ## **Illustrations**
 
