@@ -7,11 +7,9 @@ date:   2017-02-07 +0700
 categories: personal_art
 tags: 'Personal-Art'
 author: Chase
-bg: 'aside/priv3.png'
+bg: 'aside/priv3.jpg'
 ---
 *Here are some Samples of my personal Artstyle and Motives. I can adapt to many styles and genres. My favorite style is semi-realistic though.*
-
-## **Illustrations**
 
 ![Concept 14]({{ site.images }}/personal/p_illustration10.jpg)
  
