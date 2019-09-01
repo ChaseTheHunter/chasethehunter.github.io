@@ -8,7 +8,7 @@
   tags: 'Game'
   author: Chase
   active: Personal Projects
-  bg: 'aside/ba2.png'
+  bg: 'personal/MK_idle.gif'
 ---
 
 *__The challenging and beautiful journey of the Magnolian Knight__ <br>
