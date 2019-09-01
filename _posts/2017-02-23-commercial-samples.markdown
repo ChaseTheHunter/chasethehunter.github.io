@@ -1,34 +1,29 @@
 ---
 layout: post
-title:  "My First Robot"
-crawlertitle: "My First Robot"
-summary: "Programming for Children"
+title:  "Advertisement Samples"
+crawlertitle: "advertisementsamples"
+summary: "Samples for Advertisement"
 date:   2017-10-01 +0700
-categories: uni_projects
-tags: 'Game'
+categories: commercial_projects
+tags: 'Advertisement'
 author: Chase
-bg: 'aside/tbots.png'
+bg: 'aside/ad.png'
 ---
-*__The first experience for young Developers!__ <br>
-My first Robot enables children to get in touch with programming in a playful manner together with their very first robot friend.*
+*__Advertisement Samples Animation & Compositing__ <br>
+Animations created with Spine, Compositing in After Effects*
 
 Genre | Role | Focus | Time |
 ------------ | -------------| -------- |----|
-Children | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animation | 5 Months |
-
-[Tinkerbots: My First Robot, Product Page](https://www.tinkerbots.de/roboter-bausatz/my-first-robot/my-first-robot/)
-
-{% include youtubePlayer.html id='oBv_odbrVnU' %}
+Ads | **2D Art & Animator, Compositing** | - | - |
 
 
-{% include youtubePlayer.html id='ZFmkd1_L12Q' %}
-<p align="center"><i> Video: Showreel My First Robot </i></p> 
+{% include youtubePlayer.html id='wfnSzKeHEwU' %}
+<p align="center"><i> Video: Career Ad (German) </i></p> 
 
-![Tinkerbots_Thomas-Chase_Scheffel-1]({{ site.images }}/commercial/tbot_1.jpg)
-![Tinkerbots_Thomas-Chase_Scheffel-2]({{ site.images }}/commercial/tbot_2.jpg)
-<p align="center"><i>Picture: Animation Concepts </i></p>
+{% include youtubePlayer.html id='fNp1hkkgPiE' %}
+<p align="center"><i> Video: Holiday Ad (German) </i></p> 
 
-![Tinkerbots_Thomas-Chase_Scheffel-1]({{ site.images }}/commercial/tbo_gif.gif)
+
 
 
 
