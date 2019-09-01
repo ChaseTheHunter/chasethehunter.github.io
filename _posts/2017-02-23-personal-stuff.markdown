@@ -14,26 +14,26 @@ bg: 'aside/priv3.jpg'
 ![Concept 14]({{ site.images }}/personal/p_illustration10.jpg)
  
 ![Concept 13]({{ site.images }}/personal/p_illustration8.jpg)
-*Picture: Romantic Sunset* 
+<p align="center"><i>Picture: Romantic Sunset</i></p>  
 
 ![Concept 06]({{ site.images }}/personal/p_illustration7.jpg)
-*Picture: RPG Characters fighting Wendigo* 
+<p align="center"><i>Picture: RPG Characters fighting Wendigo</i></p> 
 
 ![Concept 14]({{ site.images }}/personal/p_illustration9.jpg)
-*Picture: Pacific Rim Study* 
+<p align="center"><i>Picture: Pacific Rim Study</i></p>  
 
 ![Concept 12]({{ site.images }}/personal/p_stud4.jpg)
-*Picture: Untitled Portrait -11/2016* 
+<p align="center"><i>Picture: Untitled Portrait -11/2016</i></p> 
 
 ![Concept 08]({{ site.images }}/personal/p_illustration1.jpg)
-*Picture: Pluviophile -08/2015* 
+<p align="center"><i>Picture: Pluviophile -08/2015</i></p> 
 
 ![Concept 09]({{ site.images }}/personal/p_stud1.jpg)
-*Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016* 
+<p align="center"><i>Picture: Dragon Age AU, fellow students and me as Dragon Age Characters -10/2016</i></p> 
 
 ![Concept 11]({{ site.images }}/personal/p_stud3.jpg)
-*Picture: Got an arrow in my back -11/2016* 
+<p align="center"><i>Picture: Got an arrow in my back -11/2016</i></p> 
 
 ![Concept 07]({{ site.images }}/personal/p_illustration2.jpg)
-*Picture: First Night as a Party -09/2016* 
+<p align="center"><i>Picture: First Night as a Party -09/2016</i></p> 
 
