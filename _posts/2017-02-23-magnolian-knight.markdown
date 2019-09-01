@@ -21,11 +21,10 @@ MetroidVania | **2D Artist, 2D Rigger, 2D Animator** | Assets, Rigging & Animati
 This project is in its early concept phase. I am also programming the prototype with C# in Unity3D.
 The main Programmer is Tim Fietz.
 
-![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_idle.gif)
 ![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_jump.gif)
 ![Thomas-Chase_Scheffel_Concept_MagnolianKnight_1]({{ site.images }}/personal/MK_Concept1.png)
 ![Thomas-Chase_Scheffel_Concept_MagnolianKnight_2]({{ site.images }}/personal/MK_treetry.gif)
-<p align="center"><i>Picture: Early Concepts </i></p>
+
 
 
 
