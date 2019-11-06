@@ -16,7 +16,7 @@ Made in 27h. Self-made Challenge, make an animation to a part of their PnP sessi
 {% include youtubePlayer.html id='EfU7iN9SEnI' %}
 <p align="center"><i> Video: Morriton Manor - Eine 'Exe! (German) </i></p> 
 
-{% include youtubePlayer.html id='7FFil5u1LkE&t=2613s' %}
+{% include youtubePlayer.html id='7FFil5u1LkE&t' %}
 <p align="center"><i> Video: Original Video - Part: 40:03min (German) </i></p> 
 
 
