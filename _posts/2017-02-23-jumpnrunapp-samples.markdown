@@ -9,8 +9,7 @@ tags: 'App'
 author: Chase
 bg: 'aside/jnr.gif'
 ---
-*__Jump n Run - App - Sample__ <br>
-Animations created with Spine Esoteric Software*
+*__Jump n Run - App - Sample__ <br>*
 
 
 ![Thomas-Chase_Scheffel_JnR_Concept2]({{ site.images }}/commercial/jnr2.png)
