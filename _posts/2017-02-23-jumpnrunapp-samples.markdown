@@ -1,28 +1,24 @@
 ---
 layout: post
-title:  "Advertisement Samples"
-crawlertitle: "advertisementsamples"
-summary: "Video-Samples for Advertisement"
+title:  "Jump n Run App Sample"
+crawlertitle: "jnrsample"
+summary: "Jump and Run App Draft"
 date:   2017-10-01 +0700
 categories: commercial_projects
-tags: 'Advertisement'
+tags: 'App'
 author: Chase
-bg: 'aside/ad.png'
+bg: 'aside/jnr1.gif'
 ---
-*__Advertisement Samples Animation & Compositing__ <br>
-Animations created with Spine, Compositing in After Effects*
+*__Jump n Run - App - Sample__ <br>
 
-Genre | Role | Focus | Time |
------------- | -------------| -------- |----|
-Ads | **2D Art & Animation, Compositing** | - | - |
+Animations created with Spine Esoteric Software*
 
 
-{% include youtubePlayer.html id='wfnSzKeHEwU' %}
-<p align="center"><i> Video: Career Ad (German) </i></p> 
 
-{% include youtubePlayer.html id='fNp1hkkgPiE' %}
-<p align="center"><i> Video: Holiday Ad (German) </i></p> 
-
+![Thomas-Chase_Scheffel_JnR_Concept2]({{ site.images }}/commercial/jnr2.PNG)
+![Thomas-Chase_Scheffel_JnR_Concept4]({{ site.images }}/commercial/jnr4.PNG)
+![Thomas-Chase_Scheffel_JnR_Concept1]({{ site.images }}/commercial/jnr1.PNG)
+![Thomas-Chase_Scheffel_JnR_Concept3]({{ site.images }}/commercial/jnr3.PNG)
 
 
 
