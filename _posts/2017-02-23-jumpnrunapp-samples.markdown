@@ -7,7 +7,7 @@ date:   2017-10-01 +0700
 categories: commercial_projects
 tags: 'App'
 author: Chase
-bg: 'aside/jnr1.gif'
+bg: 'aside/jnr.gif'
 ---
 *__Jump n Run - App - Sample__ <br>
 Animations created with Spine Esoteric Software*
