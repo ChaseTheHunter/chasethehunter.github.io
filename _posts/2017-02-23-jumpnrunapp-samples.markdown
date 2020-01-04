@@ -15,10 +15,10 @@ Animations created with Spine Esoteric Software*
 
 
 
-![Thomas-Chase_Scheffel_JnR_Concept2]({{ site.images }}/commercial/jnr2.PNG)
-![Thomas-Chase_Scheffel_JnR_Concept4]({{ site.images }}/commercial/jnr4.PNG)
-![Thomas-Chase_Scheffel_JnR_Concept1]({{ site.images }}/commercial/jnr1.PNG)
-![Thomas-Chase_Scheffel_JnR_Concept3]({{ site.images }}/commercial/jnr3.PNG)
+![Thomas-Chase_Scheffel_JnR_Concept2]({{ site.images }}/commercial/jnr2.png)
+![Thomas-Chase_Scheffel_JnR_Concept4]({{ site.images }}/commercial/jnr4.png)
+![Thomas-Chase_Scheffel_JnR_Concept1]({{ site.images }}/commercial/jnr1.png)
+![Thomas-Chase_Scheffel_JnR_Concept3]({{ site.images }}/commercial/jnr3.png)
 
 
 
