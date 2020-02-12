@@ -12,7 +12,7 @@ bg: 'aside/mmrbtv.png'
 *__Cartoon Example using RBTVs Morriton Manor__ <br>
 Animations created with Spine, Compositing in After Effects.*
 <br/><br/>
-Made in 27h. Self-made Challenge, make an animation to a part of their PnP session within 24h of work. Due to a crash, I needed to add 3h.
+Made in 24h. Self-made Challenge, make an animation to a part of their PnP session within 24h of work. Based on Morriton Manor 3 from The Rocket Beans TV.
 
 {% include youtubePlayer.html id='EfU7iN9SEnI' %}
 <p align="center"><i> Video: Morriton Manor - Eine 'Exe! (German) </i></p> 
