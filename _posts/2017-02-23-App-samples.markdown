@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gaming App Samples"
-crawlertitle: "gasample"
+crawlertitle: "app-sample"
 summary: "Various App MockUps"
 date:   2017-10-01 +0700
 categories: commercial_projects
