@@ -1,16 +1,23 @@
 ---
 layout: post
-title:  "Jump n Run App Sample"
-crawlertitle: "jnrsample"
-summary: "Jump and Run App Draft"
+title:  "Gaming App Samples"
+crawlertitle: "gasample"
+summary: "Various App MockUps"
 date:   2017-10-01 +0700
 categories: commercial_projects
 tags: 'App'
 author: Chase
 bg: 'aside/jnr.gif'
 ---
-*__Jump n Run - App - Sample__ <br>*
+*__Cooking Diaries Style ft. Rocket Beans TV - App__ <br>*
 
+![Thomas-Chase_Scheffel_Cooking_Concept2]({{ site.images }}/commercial/mockupAppCook.png)
+
+*__Ghostly Jump n Run - App__ <br>*
+
+![Thomas-Chase_Scheffel_Ghostly_Concept2]({{ site.images }}/commercial/mockupAppGhost.png)
+
+*__Knight Jump n Run - App - Knight__ <br>*
 
 ![Thomas-Chase_Scheffel_JnR_Concept2]({{ site.images }}/commercial/jnr2.png)
 ![Thomas-Chase_Scheffel_JnR_Concept4]({{ site.images }}/commercial/jnr4.png)
