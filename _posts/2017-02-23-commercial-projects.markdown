@@ -15,6 +15,6 @@
   * [My first Robot](https://chasethehunter.github.io/uni_projects/my-first-robot/)
  
   **Commercial Samples**
-  * [App Sample](https://chasethehunter.github.io/commercial_projects/jumpnrunapp-samples/)
-  * [Cartoon Sample](https://chasethehunter.github.io/commercial_projects/RocketBeans-morritonmanor/)
+  * [App Samples](https://chasethehunter.github.io/commercial_projects/jumpnrunapp-samples/)
+  * [Cartoon Samples](https://chasethehunter.github.io/commercial_projects/RocketBeans-morritonmanor/)
   * [Advertisement Samples](https://chasethehunter.github.io/commercial_projects/commercial-samples/)
