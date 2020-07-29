@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't Starve Together Mod"
 crawlertitle: "dstmod"
-summary: "DST Mod"
+summary: "The soothing Don't Starve Together Mod you're definetly missing!"
 date:   2017-10-01 +0700
 categories: commercial_projects
 tags: 'Steam-Workshop'
