@@ -7,7 +7,7 @@ date:   2017-10-01 +0700
 categories: commercial_projects
 tags: 'Steam-Workshop'
 author: Chase
-bg: 'aside/jnr.gif'
+bg: 'aside/dstm.png'
 ---
 *__Light my way, little faery light<br>*
 
