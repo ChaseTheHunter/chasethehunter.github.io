@@ -11,7 +11,7 @@ active: about
 ## **About me**
 I'm Chase, 
 
-23 years old and have a Bachelors Degree in Animation and Game at the [h_da](https://www.h-da.de/studium/studienangebot/studiengaenge/architektur-medien-und-design/animation-game-ba/). 
+24 years old and have a Bachelors Degree in Animation and Game at the [h_da](https://www.h-da.de/studium/studienangebot/studiengaenge/architektur-medien-und-design/animation-game-ba/). 
 
 I'm an [ISTJ](https://www.16personalities.com/istj-personality) which means I'm a very practical person and a reliable, hard worker. 
 I'm an allrounder and can easily adapt to new software and workflows.
