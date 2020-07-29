@@ -16,6 +16,6 @@
  
   **Commercial Samples**
   * [App Samples](https://chasethehunter.github.io/commercial_projects/App-samples/)
-  * [Don't Starve Together Mod](https://chasethehunter.github.io/commercial_projects/dstmod/)
+  * [Don't Starve Together Mod](https://chasethehunter.github.io/commercial_projects/dontstarve-asset/)
   * [Cartoon Samples](https://chasethehunter.github.io/commercial_projects/RocketBeans-morritonmanor/)
   * [Advertisement Samples](https://chasethehunter.github.io/commercial_projects/commercial-samples/)
