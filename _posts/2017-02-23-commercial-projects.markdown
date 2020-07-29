@@ -14,7 +14,7 @@
   **Tinkerbots, Kinematics GmbH, Berlin:**
   * [My first Robot](https://chasethehunter.github.io/uni_projects/my-first-robot/)
   
-  **Don't Starve Together - Mod: **
+  **Don't Starve Together - Mod:**
   * [Don't Starve Together Mod](https://chasethehunter.github.io/commercial_projects/dontstarve-asset/)
    
   **Commercial Samples**
