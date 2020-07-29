@@ -9,7 +9,7 @@ tags: 'Steam-Workshop'
 author: Chase
 bg: 'aside/dstm.png'
 ---
-*__Light my way, little faery light<br>*
+**Light my way, little faery light<br>**
 
 ![Thomas-Chase_Scheffel_dstmod]({{ site.images }}/commercial/morgentau-pdf.png)
 
