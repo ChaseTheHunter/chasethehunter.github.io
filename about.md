@@ -9,6 +9,6 @@ active: about
 ---
 Site moved to: [NEW PORTFOLIO PAGE](https://chase-scheffel.wixsite.com/portfolio)
 
-[Thomas-Chase Scheffel](https://www.linkedin.com/in/thomas-chase-scheffel-890031174/)
+LinkedIn: [Thomas-Chase Scheffel](https://www.linkedin.com/in/thomas-chase-scheffel-890031174/)
 
 
